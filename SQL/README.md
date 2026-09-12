@@ -39,7 +39,7 @@ The dataset is structured as a **star schema**, consisting of 1 fact table and 1
 
 ## Project 1 — Sales Analysis
 
-File: [`SQL/02_sales_analysis.sql`](SQL/02_sales_analysis.sql)
+File: [`02_sales_analysis.sql`](02_sales_analysis.sql)
 
 | # | Business Question                                                       | Key Insight                                                                                                                                                                  |
 | - | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ File: [`SQL/02_sales_analysis.sql`](SQL/02_sales_analysis.sql)
 
 ## Project 2 — Financial Analysis
 
-File: [`SQL/03_financial_analysis.sql`](SQL/03_financial_analysis.sql)
+File: [`03_financial_analysis.sql`](03_financial_analysis.sql)
 
 | # | Business Question                                                          | Key Insight                                                                                                                                             |
 | - | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
