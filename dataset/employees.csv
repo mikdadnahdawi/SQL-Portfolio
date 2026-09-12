@@ -1,0 +1,78 @@
+﻿employee_id,full_name,email,department,position,gender,hire_date,salary,city_id,manager_id
+5,Hadi Putri,hadi.putri@tokofashion.co.id,Sales,Sales Manager,M,10/22/2022,20367468,18,
+6,Budi Putri,budi.putri@tokofashion.co.id,Sales,Key Account Manager,M,3/3/2025,22764231,10,
+22,Fitri Wibowo,fitri.wibowo@tokofashion.co.id,Marketing,Marketing Manager,F,3/4/2022,21490177,16,
+36,Rudi Lestari,rudi.lestari@tokofashion.co.id,Operations,Operations Manager,M,1/10/2025,11775713,29,
+45,Putri Wibowo,putri.wibowo@tokofashion.co.id,Customer Service,CS Manager,F,10/18/2022,23236872,26,
+55,Eka Wijaya,eka.wijaya@tokofashion.co.id,IT,IT Manager,F,11/23/2023,14207958,11,
+63,Sari Utami,sari.utami@tokofashion.co.id,Finance,Finance Manager,F,7/29/2023,12124878,1,
+72,Citra Kusuma,citra.kusuma@tokofashion.co.id,HR,HR Manager,F,7/28/2021,6045997,11,
+1,Yusuf Hidayat,yusuf.hidayat@tokofashion.co.id,Sales,Sales Representative,M,4/18/2020,11300748,21,5
+2,Dedi Saputra,dedi.saputra@tokofashion.co.id,Sales,Sales Representative,M,9/14/2023,8051832,22,5
+3,Dewi Santoso,dewi.santoso@tokofashion.co.id,Sales,Sales Representative,F,8/22/2021,9984783,8,6
+4,Rina Susanto,rina.susanto@tokofashion.co.id,Sales,Sales Representative,F,7/22/2020,8792472,16,5
+7,Maya Susanto,maya.susanto@tokofashion.co.id,Sales,Sales Supervisor,F,11/17/2020,3808234,12,6
+8,Lina Ramadhan,lina.ramadhan@tokofashion.co.id,Sales,Sales Supervisor,F,9/11/2021,7462858,17,5
+9,Bella Ramadhan,bella.ramadhan@tokofashion.co.id,Sales,Sales Supervisor,F,6/11/2021,9995644,29,5
+10,Umar Hidayat,umar.hidayat@tokofashion.co.id,Sales,Sales Supervisor,M,4/6/2021,6045240,11,6
+11,Dedi Susanto,dedi.susanto@tokofashion.co.id,Marketing,Marketing Specialist,M,2/21/2022,7315608,14,22
+12,Wawan Kusuma,wawan.kusuma@tokofashion.co.id,Marketing,Marketing Specialist,M,5/23/2022,8740913,20,22
+13,Oktavia Sari,oktavia.sari@tokofashion.co.id,Marketing,Marketing Specialist,F,9/26/2020,6968811,21,22
+14,Wawan Sari,wawan.sari@tokofashion.co.id,Marketing,Marketing Specialist,M,11/1/2023,6894202,28,22
+15,Lukman Susanto,lukman.susanto@tokofashion.co.id,Marketing,Marketing Specialist,M,12/15/2023,5769160,14,22
+16,Maman Wijaya,maman.wijaya@tokofashion.co.id,Marketing,Digital Marketer,M,2/15/2023,5486209,6,22
+17,Eka Susanto,eka.susanto@tokofashion.co.id,Marketing,Digital Marketer,F,3/1/2020,8846688,29,22
+18,Nina Hidayat,nina.hidayat@tokofashion.co.id,Marketing,Digital Marketer,F,6/26/2022,8093537,5,22
+19,Fajar Kusuma,fajar.kusuma@tokofashion.co.id,Marketing,Content Creator,M,2/23/2020,7977211,20,22
+20,Yusuf Putri,yusuf.putri@tokofashion.co.id,Marketing,Content Creator,M,4/17/2021,3937625,12,22
+21,Sandi Kusuma,sandi.kusuma@tokofashion.co.id,Marketing,Content Creator,M,10/25/2022,11364546,23,22
+23,Irfan Putri,irfan.putri@tokofashion.co.id,Operations,Operations Analyst,M,3/7/2020,10354988,25,36
+24,Kurnia Saputra,kurnia.saputra@tokofashion.co.id,Operations,Operations Analyst,M,3/31/2021,6902982,25,36
+25,Dedi Kusuma,dedi.kusuma@tokofashion.co.id,Operations,Operations Analyst,M,3/13/2025,10869982,28,36
+26,Oktavia Siregar,oktavia.siregar@tokofashion.co.id,Operations,Warehouse Supervisor,F,5/20/2021,10673194,13,36
+27,Yusuf Susanto,yusuf.susanto@tokofashion.co.id,Operations,Warehouse Supervisor,M,8/15/2024,9881619,24,36
+28,Maya Lestari,maya.lestari@tokofashion.co.id,Operations,Warehouse Supervisor,F,4/7/2025,4146123,17,36
+29,Rudi Nugroho,rudi.nugroho@tokofashion.co.id,Operations,Warehouse Supervisor,M,8/20/2024,4211620,29,36
+30,Teguh Sari,teguh.sari@tokofashion.co.id,Operations,Warehouse Supervisor,M,3/21/2022,4158532,18,36
+31,Irfan Hidayat,irfan.hidayat@tokofashion.co.id,Operations,Logistics Coordinator,M,6/19/2022,10178001,29,36
+32,Juli Nugroho,juli.nugroho@tokofashion.co.id,Operations,Logistics Coordinator,F,12/6/2020,10587739,10,36
+33,Teguh Siregar,teguh.siregar@tokofashion.co.id,Operations,Logistics Coordinator,M,10/18/2020,11277564,27,36
+34,Citra Susanto,citra.susanto@tokofashion.co.id,Operations,Logistics Coordinator,F,10/22/2022,5398704,6,36
+35,Oki Saputra,oki.saputra@tokofashion.co.id,Operations,Logistics Coordinator,M,10/24/2021,11064609,1,36
+37,Kurnia Pratama,kurnia.pratama@tokofashion.co.id,Customer Service,CS Representative,M,11/17/2023,6251363,23,45
+38,Dedi Wijaya,dedi.wijaya@tokofashion.co.id,Customer Service,CS Representative,M,12/17/2023,11039654,21,45
+39,Citra Sari,citra.sari@tokofashion.co.id,Customer Service,CS Representative,F,12/19/2023,9943916,24,45
+40,Oki Sari,oki.sari@tokofashion.co.id,Customer Service,CS Representative,M,2/18/2022,4236621,25,45
+41,Maman Lestari,maman.lestari@tokofashion.co.id,Customer Service,CS Representative,M,11/19/2024,6018087,6,45
+42,Budi Saputra,budi.saputra@tokofashion.co.id,Customer Service,CS Supervisor,M,9/22/2021,8692855,24,45
+43,Juli Ramadhan,juli.ramadhan@tokofashion.co.id,Customer Service,CS Supervisor,F,1/5/2021,5472228,29,45
+44,Irfan Santoso,irfan.santoso@tokofashion.co.id,Customer Service,CS Supervisor,M,6/29/2023,7746497,1,45
+46,Hani Putri,hani.putri@tokofashion.co.id,IT,Web Developer,F,4/20/2023,11481122,15,55
+47,Oktavia Wijaya,oktavia.wijaya@tokofashion.co.id,IT,Web Developer,F,5/16/2023,3610277,8,55
+48,Budi Kusuma,budi.kusuma@tokofashion.co.id,IT,Data Analyst,M,10/30/2020,4423819,21,55
+49,Bella Kusuma,bella.kusuma@tokofashion.co.id,IT,Data Analyst,F,10/14/2024,4044120,22,55
+50,Kartika Siregar,kartika.siregar@tokofashion.co.id,IT,Data Analyst,F,6/28/2020,4322609,4,55
+51,Fitri Kusuma,fitri.kusuma@tokofashion.co.id,IT,Data Analyst,F,10/8/2023,8271113,20,55
+52,Tika Pratama,tika.pratama@tokofashion.co.id,IT,IT Support,F,3/22/2025,4101296,3,55
+53,Kartika Pratama,kartika.pratama@tokofashion.co.id,IT,IT Support,F,1/12/2025,9857547,27,55
+54,Pandu Wibowo,pandu.wibowo@tokofashion.co.id,IT,IT Support,M,2/1/2023,4589275,10,55
+56,Irfan Lestari,irfan.lestari@tokofashion.co.id,Finance,Accountant,M,4/29/2020,5333787,19,63
+57,Sandi Susanto,sandi.susanto@tokofashion.co.id,Finance,Accountant,M,11/11/2023,8318203,14,63
+58,Indah Sari,indah.sari@tokofashion.co.id,Finance,Accountant,F,3/23/2023,9436673,5,63
+59,Rina Susanto,rina.susanto@tokofashion.co.id,Finance,Accountant,F,7/18/2023,11850710,16,63
+60,Yusuf Putri,yusuf.putri@tokofashion.co.id,Finance,Accountant,M,12/22/2023,8373580,7,63
+61,Ahmad Nugroho,ahmad.nugroho@tokofashion.co.id,Finance,Financial Analyst,M,7/4/2023,5478465,24,63
+62,Yusuf Saputra,yusuf.saputra@tokofashion.co.id,Finance,Financial Analyst,M,4/27/2022,4263232,11,63
+64,Indah Utami,indah.utami@tokofashion.co.id,Finance,Billing Specialist,F,5/18/2020,8663566,10,63
+65,Ani Wijaya,ani.wijaya@tokofashion.co.id,Finance,Billing Specialist,F,11/5/2023,9091559,11,63
+66,Tika Lestari,tika.lestari@tokofashion.co.id,Finance,Billing Specialist,F,5/20/2025,3988508,27,63
+67,Maman Wibowo,maman.wibowo@tokofashion.co.id,HR,HR Specialist,M,11/23/2021,11538102,16,72
+68,Fajar Nugroho,fajar.nugroho@tokofashion.co.id,HR,HR Specialist,M,11/14/2020,11227886,29,72
+69,Oktavia Utami,oktavia.utami@tokofashion.co.id,HR,HR Specialist,F,7/25/2024,10444979,24,72
+70,Tika Susanto,tika.susanto@tokofashion.co.id,HR,Recruiter,F,10/20/2023,8793259,18,72
+71,Irfan Lestari,irfan.lestari@tokofashion.co.id,HR,Recruiter,M,11/4/2023,9065326,26,72
+73,Wawan Lestari,wawan.lestari@tokofashion.co.id,HR,Training Coordinator,M,3/8/2022,6643696,20,72
+74,Lukman Susanto,lukman.susanto@tokofashion.co.id,HR,Training Coordinator,M,10/22/2024,8776424,23,72
+75,Kurnia Saputra,kurnia.saputra@tokofashion.co.id,HR,Training Coordinator,M,6/26/2020,11839189,29,72
+76,Nanda Nugroho,nanda.nugroho@tokofashion.co.id,HR,Training Coordinator,M,8/25/2024,8577267,7,72
+77,Fitri Wijaya,fitri.wijaya@tokofashion.co.id,HR,Training Coordinator,F,2/5/2022,4127384,25,72

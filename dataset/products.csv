@@ -1,0 +1,31 @@
+﻿product_id,product_name,category,subcategory,brand,base_price,cost_price
+1,Comfort Fit Kemeja,Pakaian Pria,Kemeja,Comfort Fit,283478,115518
+2,Active Life Kaos,Pakaian Pria,Kaos,Active Life,771327,448231
+3,Urban Style Celana Panjang,Pakaian Pria,Celana Panjang,Urban Style,1019429,523819
+4,Zalora Basics Celana Pendek,Pakaian Pria,Celana Pendek,Zalora Basics,856915,440870
+5,Trendy Wear Jaket,Pakaian Pria,Jaket,Trendy Wear,215165,91594
+6,Zalora Basics Sweater,Pakaian Pria,Sweater,Zalora Basics,1128263,531864
+7,Zalora Basics Blouse,Pakaian Wanita,Blouse,Zalora Basics,1417646,992047
+8,Zalora Basics Dress,Pakaian Wanita,Dress,Zalora Basics,1297879,545613
+9,Zalora Basics Rok,Pakaian Wanita,Rok,Zalora Basics,562301,287256
+10,Trendy Wear Celana Wanita,Pakaian Wanita,Celana Wanita,Trendy Wear,70278,30469
+11,Urban Style Cardigan,Pakaian Wanita,Cardigan,Urban Style,1015325,512635
+12,Active Life Tank Top,Pakaian Wanita,Tank Top,Active Life,1179215,714671
+13,Comfort Fit Sneakers,Sepatu,Sneakers,Comfort Fit,227829,110528
+14,Elegance Sepatu Formal,Sepatu,Sepatu Formal,Elegance,212494,130484
+15,Urban Style Sandal,Sepatu,Sandal,Urban Style,155454,74314
+16,SportMax Boots,Sepatu,Boots,SportMax,1167247,616905
+17,Comfort Fit Running Shoes,Sepatu,Running Shoes,Comfort Fit,1079326,576848
+18,Elegance Loafers,Sepatu,Loafers,Elegance,1053936,560842
+19,Zalora Basics Tas,Aksesoris,Tas,Zalora Basics,1192030,557205
+20,Comfort Fit Topi,Aksesoris,Topi,Comfort Fit,1243713,841194
+21,Trendy Wear Ikat Pinggang,Aksesoris,Ikat Pinggang,Trendy Wear,1085563,576789
+22,Zalora Basics Dompet,Aksesoris,Dompet,Zalora Basics,530089,365005
+23,Elegance Kacamata,Aksesoris,Kacamata,Elegance,1138346,677831
+24,Elegance Jam Tangan,Aksesoris,Jam Tangan,Elegance,748998,371740
+25,Zalora Basics Jersey,Olahraga,Jersey,Zalora Basics,1003839,428054
+26,Comfort Fit Celana Training,Olahraga,Celana Training,Comfort Fit,372900,204913
+27,Active Life Jaket Olahraga,Olahraga,Jaket Olahraga,Active Life,445632,309372
+28,Active Life Sepatu Olahraga,Olahraga,Sepatu Olahraga,Active Life,1184592,486594
+29,Comfort Fit Tas Gym,Olahraga,Tas Gym,Comfort Fit,69707,46680
+30,Trendy Wear Matras Yoga,Olahraga,Matras Yoga,Trendy Wear,575602,347277

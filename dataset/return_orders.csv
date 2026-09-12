@@ -1,0 +1,801 @@
+﻿return_id,order_id,customer_id,subproduct_id,return_date,reason,status,refund_amount,processed_by,resolution_date
+1,858,1933,370,2026-06-22,Diterima dalam kondisi tidak baik,Refund Processed,150000,5,2026-07-02
+2,4386,852,339,2023-12-15,Customer tidak jadi beli,Rejected,150000,40,2023-12-28
+3,1429,1899,494,2024-03-09,Customer tidak jadi beli,Rejected,250000,60,2024-03-22
+4,6673,1202,82,2025-07-12,Keterlambatan pengiriman,Refund Processed,1000000,13,2025-07-26
+5,4368,1568,544,2024-11-20,Pesanan salah kirim,Refund Processed,100000,21,2024-12-02
+6,1765,1820,280,2025-12-08,Pesanan salah kirim,Refund Processed,750000,23,2025-12-17
+7,626,340,395,2025-06-03,Ukuran tidak sesuai,Approved,500000,18,2025-06-06
+8,6212,526,144,2026-05-19,Keterlambatan pengiriman,Approved,200000,59,2026-05-24
+9,8786,804,304,2024-05-20,Salah order,Rejected,150000,40,2024-06-02
+10,9214,1833,27,2026-07-05,Warna tidak sesuai deskripsi,Refund Processed,100000,21,2026-07-11
+11,5443,997,43,2023-08-24,Pesanan salah kirim,Pending Review,250000,60,2023-08-31
+12,5584,2279,537,2023-08-12,Salah order,Refund Processed,50000,14,2023-08-19
+13,851,1257,175,2024-05-31,Warna tidak sesuai deskripsi,Rejected,400000,52,2024-06-01
+14,2616,1274,444,2025-10-25,Salah order,Approved,300000,73,2025-10-28
+15,2213,1227,452,2024-05-13,Warna tidak sesuai deskripsi,Exchange Sent,500000,76,2024-05-25
+16,5525,2169,173,2023-12-22,Customer tidak jadi beli,Refund Processed,150000,16,2023-12-24
+17,9191,726,17,2026-08-09,Keterlambatan pengiriman,Approved,400000,30,2026-08-22
+18,5469,320,275,2025-07-03,Diterima dalam kondisi tidak baik,Approved,200000,31,2025-07-06
+19,4017,779,10,2024-03-24,Ukuran tidak sesuai,Approved,1000000,39,2024-04-01
+20,2684,1905,331,2024-02-14,Ukuran tidak sesuai,Approved,500000,40,2024-02-16
+21,28,100,145,2026-08-27,Produk tidak berfungsi,Pending Review,200000,60,2026-09-10
+22,7148,2028,492,2023-09-26,Produk tidak berfungsi,Refund Processed,250000,30,2023-10-02
+23,1436,1096,540,2024-07-05,Ukuran tidak sesuai,Pending Review,75000,45,2024-07-11
+24,9792,1587,155,2025-08-04,Pesanan salah kirim,Approved,100000,43,2025-08-08
+25,6187,589,250,2025-08-15,Keterlambatan pengiriman,Approved,1500000,21,2025-08-20
+26,1145,1620,548,2025-02-19,Keterlambatan pengiriman,Refund Processed,1500000,1,2025-03-03
+27,109,924,236,2025-09-29,Salah order,Approved,100000,42,2025-10-11
+28,5169,1380,466,2025-09-11,Produk rusak / cacat,Approved,1000000,34,2025-09-14
+29,7346,2014,187,2024-02-08,Warna tidak sesuai deskripsi,Approved,1000000,17,2024-02-11
+30,1672,1644,486,2024-08-19,Keterlambatan pengiriman,Rejected,50000,34,2024-09-01
+31,720,554,77,2024-11-26,Customer tidak jadi beli,Exchange Sent,150000,39,2024-11-28
+32,1520,1710,285,2024-01-09,Diterima dalam kondisi tidak baik,Refund Processed,400000,6,2024-01-10
+33,2330,1902,439,2023-11-30,Ukuran tidak sesuai,Approved,150000,6,2023-12-14
+34,2069,1530,135,2026-07-27,Pesanan salah kirim,Pending Review,150000,9,2026-07-29
+35,348,2065,492,2026-02-05,Customer tidak jadi beli,Approved,500000,25,2026-02-11
+36,4781,815,529,2026-08-08,Pesanan salah kirim,Refund Processed,750000,5,2026-08-19
+37,7056,795,307,2025-12-24,Customer tidak jadi beli,Approved,200000,69,2026-01-07
+38,9395,518,254,2024-11-17,Ukuran tidak sesuai,Exchange Sent,100000,30,2024-11-23
+39,7814,1795,58,2026-07-17,Produk rusak / cacat,Approved,1500000,73,2026-07-18
+40,4348,1601,348,2026-07-30,Ukuran tidak sesuai,Approved,1000000,26,2026-08-13
+41,7689,1008,454,2025-05-23,Tidak sesuai ekspektasi,Approved,750000,43,2025-05-28
+42,603,1043,498,2026-05-10,Diterima dalam kondisi tidak baik,Rejected,250000,21,2026-05-18
+43,4999,266,137,2026-01-08,Keterlambatan pengiriman,Refund Processed,100000,47,2026-01-15
+44,5628,865,215,2025-11-05,Produk rusak / cacat,Approved,250000,30,2025-11-08
+45,8548,1074,254,2023-10-18,Warna tidak sesuai deskripsi,Exchange Sent,300000,66,2023-10-25
+46,7913,23,66,2024-02-24,Salah order,Exchange Sent,1500000,30,2024-03-06
+47,3390,221,511,2024-06-19,Produk tidak berfungsi,Approved,250000,51,2024-06-26
+48,9977,2202,319,2023-06-12,Keterlambatan pengiriman,Exchange Sent,1000000,24,2023-06-26
+49,8636,716,336,2025-06-16,Produk tidak berfungsi,Approved,150000,75,2025-06-26
+50,9254,759,448,2023-04-17,Produk tidak berfungsi,Refund Processed,1000000,15,2023-04-18
+51,5166,234,412,2023-03-09,Warna tidak sesuai deskripsi,Refund Processed,75000,13,2023-03-12
+52,206,1047,248,2024-02-24,Pesanan salah kirim,Approved,150000,5,2024-02-26
+53,6525,1954,338,2024-04-20,Warna tidak sesuai deskripsi,Refund Processed,500000,64,2024-05-02
+54,8401,975,118,2026-05-04,Ukuran tidak sesuai,Approved,300000,45,2026-05-18
+55,7117,585,462,2023-06-28,Diterima dalam kondisi tidak baik,Approved,750000,72,2023-07-01
+56,8824,1005,169,2024-05-01,Tidak sesuai ekspektasi,Refund Processed,75000,40,2024-05-03
+57,9774,17,264,2024-05-26,Produk tidak berfungsi,Exchange Sent,250000,15,2024-05-30
+58,7965,58,65,2024-10-30,Tidak sesuai ekspektasi,Pending Review,1500000,67,2024-11-10
+59,8530,1005,377,2025-04-21,Customer tidak jadi beli,Refund Processed,250000,27,2025-04-30
+60,6874,159,76,2025-10-21,Ukuran tidak sesuai,Pending Review,50000,61,2025-10-28
+61,6137,2169,11,2026-01-06,Pesanan salah kirim,Exchange Sent,500000,20,2026-01-09
+62,8357,672,310,2026-04-06,Ukuran tidak sesuai,Exchange Sent,200000,58,2026-04-07
+63,522,2054,80,2024-08-15,Keterlambatan pengiriman,Refund Processed,200000,60,2024-08-21
+64,2974,1903,142,2023-10-16,Diterima dalam kondisi tidak baik,Exchange Sent,750000,40,2023-10-25
+65,1354,1333,510,2026-03-25,Salah order,Exchange Sent,1000000,22,2026-03-29
+66,7978,1289,74,2025-08-19,Customer tidak jadi beli,Refund Processed,75000,32,2025-08-27
+67,4291,1595,317,2024-05-25,Diterima dalam kondisi tidak baik,Refund Processed,250000,69,2024-06-06
+68,2788,2423,20,2026-03-02,Diterima dalam kondisi tidak baik,Pending Review,1500000,17,2026-03-05
+69,5488,569,473,2025-06-26,Ukuran tidak sesuai,Refund Processed,1500000,36,2025-06-29
+70,5521,407,289,2023-07-24,Warna tidak sesuai deskripsi,Approved,250000,56,2023-07-29
+71,9081,2323,56,2024-06-19,Keterlambatan pengiriman,Approved,500000,5,2024-06-24
+72,6410,1892,221,2024-09-24,Ukuran tidak sesuai,Approved,400000,22,2024-10-03
+73,1201,539,322,2024-10-07,Tidak sesuai ekspektasi,Pending Review,100000,46,2024-10-21
+74,7484,1839,163,2025-06-05,Tidak sesuai ekspektasi,Approved,50000,1,2025-06-19
+75,6352,1795,447,2024-04-29,Tidak sesuai ekspektasi,Approved,100000,8,2024-05-11
+76,9391,925,1,2025-07-24,Produk tidak berfungsi,Approved,50000,19,2025-07-31
+77,5507,264,199,2026-04-21,Warna tidak sesuai deskripsi,Pending Review,400000,71,2026-04-24
+78,268,730,548,2023-11-24,Produk rusak / cacat,Pending Review,500000,12,2023-11-28
+79,3098,2158,525,2025-10-08,Warna tidak sesuai deskripsi,Refund Processed,250000,63,2025-10-10
+80,9605,1056,218,2026-06-23,Keterlambatan pengiriman,Rejected,1000000,44,2026-07-05
+81,1445,78,549,2026-04-25,Warna tidak sesuai deskripsi,Approved,100000,38,2026-05-08
+82,5956,78,413,2025-11-19,Produk tidak berfungsi,Rejected,100000,69,2025-11-27
+83,211,582,115,2024-09-01,Salah order,Approved,150000,42,2024-09-03
+84,5766,95,209,2025-03-01,Customer tidak jadi beli,Exchange Sent,200000,53,2025-03-02
+85,3755,1958,465,2026-06-07,Pesanan salah kirim,Refund Processed,150000,16,2026-06-17
+86,6648,1543,355,2026-06-18,Pesanan salah kirim,Approved,75000,29,2026-06-27
+87,8717,825,178,2026-01-22,Keterlambatan pengiriman,Approved,200000,24,2026-02-01
+88,8209,1278,267,2023-02-10,Ukuran tidak sesuai,Pending Review,300000,51,2023-02-17
+89,979,1425,318,2026-04-21,Customer tidak jadi beli,Approved,400000,24,2026-04-23
+90,4714,1487,212,2023-07-28,Produk rusak / cacat,Refund Processed,1500000,1,2023-08-04
+91,8107,414,228,2026-06-26,Produk tidak berfungsi,Rejected,200000,35,2026-07-06
+92,3824,2196,173,2024-10-23,Customer tidak jadi beli,Exchange Sent,500000,71,2024-10-24
+93,8916,1164,399,2024-09-10,Ukuran tidak sesuai,Approved,50000,46,2024-09-22
+94,7927,296,223,2024-07-15,Diterima dalam kondisi tidak baik,Exchange Sent,50000,66,2024-07-27
+95,2910,2124,46,2025-08-29,Tidak sesuai ekspektasi,Approved,100000,43,2025-09-07
+96,2520,739,195,2024-08-10,Salah order,Approved,150000,53,2024-08-14
+97,8789,1108,426,2024-01-12,Customer tidak jadi beli,Pending Review,750000,44,2024-01-17
+98,7283,809,493,2023-04-05,Produk tidak berfungsi,Refund Processed,100000,48,2023-04-11
+99,6203,2451,48,2025-02-14,Salah order,Approved,75000,42,2025-02-19
+100,7558,1372,256,2025-12-15,Tidak sesuai ekspektasi,Refund Processed,400000,72,2025-12-25
+101,724,2020,357,2024-11-23,Keterlambatan pengiriman,Refund Processed,1500000,64,2024-12-01
+102,167,415,389,2026-05-15,Warna tidak sesuai deskripsi,Approved,500000,38,2026-05-23
+103,2208,1176,121,2024-08-14,Warna tidak sesuai deskripsi,Exchange Sent,75000,46,2024-08-17
+104,7477,1480,71,2026-08-09,Pesanan salah kirim,Approved,1000000,56,2026-08-11
+105,3166,224,451,2025-07-03,Warna tidak sesuai deskripsi,Approved,1500000,31,2025-07-04
+106,345,656,184,2026-01-06,Produk rusak / cacat,Exchange Sent,50000,71,2026-01-09
+107,4201,1386,38,2024-06-17,Pesanan salah kirim,Approved,500000,49,2024-06-23
+108,5768,196,143,2024-11-20,Pesanan salah kirim,Refund Processed,300000,16,2024-12-04
+109,4456,266,549,2026-07-05,Produk rusak / cacat,Rejected,75000,12,2026-07-11
+110,7116,2148,420,2025-07-18,Produk rusak / cacat,Pending Review,400000,9,2025-07-29
+111,6888,1595,194,2023-03-08,Diterima dalam kondisi tidak baik,Refund Processed,150000,11,2023-03-13
+112,6,1642,480,2023-05-22,Customer tidak jadi beli,Approved,500000,12,2023-05-25
+113,1780,961,114,2025-10-21,Keterlambatan pengiriman,Approved,750000,26,2025-10-28
+114,1026,547,363,2025-01-21,Produk rusak / cacat,Refund Processed,75000,49,2025-02-02
+115,8362,2126,279,2025-09-12,Produk tidak berfungsi,Approved,500000,63,2025-09-26
+116,5818,2271,352,2023-07-05,Warna tidak sesuai deskripsi,Approved,50000,49,2023-07-17
+117,1455,1157,316,2026-01-06,Diterima dalam kondisi tidak baik,Approved,250000,29,2026-01-16
+118,1359,1546,83,2024-12-19,Produk tidak berfungsi,Approved,200000,10,2024-12-23
+119,7098,1399,438,2026-03-06,Produk rusak / cacat,Approved,1500000,24,2026-03-14
+120,141,13,464,2023-06-06,Tidak sesuai ekspektasi,Pending Review,50000,67,2023-06-09
+121,8779,1147,138,2024-02-12,Ukuran tidak sesuai,Refund Processed,1000000,20,2024-02-22
+122,6185,1355,529,2025-02-05,Salah order,Rejected,150000,64,2025-02-10
+123,1204,352,300,2026-02-03,Warna tidak sesuai deskripsi,Refund Processed,200000,49,2026-02-08
+124,8956,396,126,2023-05-10,Salah order,Approved,150000,7,2023-05-24
+125,6623,1555,67,2023-10-21,Keterlambatan pengiriman,Pending Review,250000,7,2023-10-22
+126,478,796,178,2026-02-25,Diterima dalam kondisi tidak baik,Approved,250000,48,2026-03-03
+127,5284,1725,478,2024-12-25,Diterima dalam kondisi tidak baik,Pending Review,200000,55,2024-12-30
+128,4302,1037,432,2024-03-17,Produk tidak berfungsi,Approved,100000,17,2024-03-30
+129,7742,1393,317,2024-01-15,Keterlambatan pengiriman,Approved,150000,33,2024-01-29
+130,542,2115,366,2026-02-16,Produk tidak berfungsi,Refund Processed,200000,68,2026-02-20
+131,9202,73,179,2025-03-07,Produk rusak / cacat,Pending Review,400000,4,2025-03-09
+132,5486,916,466,2024-03-27,Ukuran tidak sesuai,Refund Processed,100000,30,2024-04-05
+133,6785,63,530,2023-04-24,Warna tidak sesuai deskripsi,Refund Processed,100000,51,2023-05-05
+134,5708,810,509,2024-04-29,Produk rusak / cacat,Refund Processed,100000,61,2024-05-10
+135,390,384,391,2024-06-07,Produk tidak berfungsi,Approved,300000,5,2024-06-08
+136,2685,2080,285,2023-03-08,Diterima dalam kondisi tidak baik,Exchange Sent,750000,62,2023-03-13
+137,6866,2454,545,2025-10-04,Keterlambatan pengiriman,Refund Processed,250000,41,2025-10-10
+138,1053,1067,377,2025-08-13,Produk rusak / cacat,Approved,100000,3,2025-08-16
+139,2360,1952,467,2023-02-18,Diterima dalam kondisi tidak baik,Exchange Sent,1000000,22,2023-02-25
+140,6097,2414,375,2025-04-15,Salah order,Refund Processed,1500000,61,2025-04-24
+141,3850,1527,302,2024-12-16,Produk tidak berfungsi,Approved,500000,67,2024-12-21
+142,1285,807,163,2025-03-21,Salah order,Pending Review,750000,24,2025-04-01
+143,937,1954,281,2023-08-18,Tidak sesuai ekspektasi,Approved,75000,74,2023-08-20
+144,8499,650,550,2026-07-17,Produk tidak berfungsi,Pending Review,200000,34,2026-07-19
+145,6345,594,419,2025-01-25,Produk rusak / cacat,Refund Processed,1500000,54,2025-02-05
+146,8807,1117,167,2026-01-16,Warna tidak sesuai deskripsi,Rejected,1000000,33,2026-01-24
+147,5017,72,3,2025-02-01,Salah order,Approved,400000,15,2025-02-11
+148,2395,882,333,2026-06-08,Produk tidak berfungsi,Pending Review,150000,38,2026-06-18
+149,4771,1679,235,2025-07-08,Warna tidak sesuai deskripsi,Pending Review,200000,65,2025-07-13
+150,6378,1163,232,2026-06-15,Ukuran tidak sesuai,Pending Review,250000,13,2026-06-20
+151,6038,2391,412,2023-05-26,Customer tidak jadi beli,Pending Review,75000,32,2023-06-03
+152,2073,298,195,2023-06-30,Tidak sesuai ekspektasi,Approved,750000,10,2023-07-09
+153,8765,1887,498,2025-03-22,Customer tidak jadi beli,Exchange Sent,750000,55,2025-04-05
+154,5534,1786,490,2025-02-13,Keterlambatan pengiriman,Approved,75000,29,2025-02-16
+155,8473,2060,480,2025-07-20,Customer tidak jadi beli,Approved,500000,1,2025-07-28
+156,1959,2106,295,2026-06-27,Salah order,Pending Review,400000,49,2026-06-29
+157,2733,152,53,2024-07-18,Ukuran tidak sesuai,Approved,50000,26,2024-07-27
+158,9656,2492,517,2023-11-26,Pesanan salah kirim,Refund Processed,50000,12,2023-12-04
+159,6329,484,379,2023-09-13,Warna tidak sesuai deskripsi,Pending Review,400000,30,2023-09-25
+160,7081,699,6,2024-12-23,Ukuran tidak sesuai,Approved,200000,10,2024-12-28
+161,1017,441,221,2023-08-09,Salah order,Approved,1000000,51,2023-08-17
+162,2229,816,85,2025-07-11,Ukuran tidak sesuai,Refund Processed,200000,30,2025-07-16
+163,7451,172,434,2023-11-14,Keterlambatan pengiriman,Refund Processed,300000,20,2023-11-21
+164,338,1642,348,2025-03-02,Pesanan salah kirim,Refund Processed,750000,24,2025-03-10
+165,5727,1288,342,2025-04-01,Keterlambatan pengiriman,Refund Processed,50000,76,2025-04-06
+166,7369,2088,166,2025-04-22,Ukuran tidak sesuai,Refund Processed,150000,6,2025-04-25
+167,7392,689,490,2024-06-22,Salah order,Approved,250000,44,2024-06-27
+168,4978,924,460,2024-08-23,Customer tidak jadi beli,Refund Processed,250000,14,2024-08-28
+169,7029,2349,232,2023-10-05,Salah order,Approved,500000,75,2023-10-18
+170,463,942,432,2024-05-16,Customer tidak jadi beli,Pending Review,75000,70,2024-05-25
+171,2599,1341,143,2026-08-22,Tidak sesuai ekspektasi,Approved,1000000,7,2026-09-03
+172,8546,1005,332,2025-01-24,Produk rusak / cacat,Approved,1500000,36,2025-01-30
+173,5323,184,285,2025-11-13,Warna tidak sesuai deskripsi,Pending Review,750000,16,2025-11-15
+174,8468,2173,322,2025-10-16,Pesanan salah kirim,Rejected,100000,30,2025-10-27
+175,8434,2492,15,2025-09-28,Produk rusak / cacat,Exchange Sent,750000,28,2025-10-12
+176,9119,1858,355,2025-06-21,Warna tidak sesuai deskripsi,Approved,50000,39,2025-06-24
+177,2251,1329,422,2026-02-24,Pesanan salah kirim,Approved,1500000,19,2026-02-28
+178,5630,425,10,2026-08-23,Diterima dalam kondisi tidak baik,Exchange Sent,250000,8,2026-09-05
+179,8195,2487,15,2024-07-02,Ukuran tidak sesuai,Rejected,1500000,23,2024-07-13
+180,1717,661,410,2025-04-25,Salah order,Approved,200000,69,2025-05-01
+181,8937,2207,292,2024-11-20,Warna tidak sesuai deskripsi,Approved,50000,2,2024-12-04
+182,6046,1188,134,2024-04-24,Keterlambatan pengiriman,Approved,75000,76,2024-04-27
+183,3685,2118,393,2026-06-10,Diterima dalam kondisi tidak baik,Refund Processed,1500000,5,2026-06-22
+184,9342,179,440,2024-12-19,Customer tidak jadi beli,Refund Processed,75000,29,2024-12-30
+185,5572,923,98,2026-03-11,Customer tidak jadi beli,Approved,200000,24,2026-03-24
+186,1522,1334,282,2024-07-03,Warna tidak sesuai deskripsi,Refund Processed,1000000,34,2024-07-07
+187,4453,387,210,2025-09-06,Ukuran tidak sesuai,Pending Review,400000,40,2025-09-15
+188,8296,788,191,2025-07-02,Produk rusak / cacat,Rejected,500000,29,2025-07-10
+189,3986,96,527,2023-12-20,Warna tidak sesuai deskripsi,Approved,1000000,17,2023-12-30
+190,3331,1012,78,2024-05-26,Diterima dalam kondisi tidak baik,Rejected,1500000,7,2024-05-27
+191,5277,463,300,2025-10-08,Warna tidak sesuai deskripsi,Approved,50000,22,2025-10-22
+192,4335,1726,493,2025-08-06,Diterima dalam kondisi tidak baik,Refund Processed,150000,4,2025-08-14
+193,6524,2370,394,2025-02-27,Produk rusak / cacat,Approved,75000,66,2025-03-13
+194,705,1679,187,2023-02-15,Pesanan salah kirim,Rejected,150000,16,2023-02-24
+195,8201,2426,302,2025-05-20,Ukuran tidak sesuai,Pending Review,250000,44,2025-05-28
+196,1317,1179,328,2024-04-12,Warna tidak sesuai deskripsi,Rejected,100000,16,2024-04-25
+197,3230,1830,212,2024-09-05,Diterima dalam kondisi tidak baik,Pending Review,300000,57,2024-09-08
+198,8277,2229,407,2023-11-20,Ukuran tidak sesuai,Exchange Sent,400000,3,2023-11-28
+199,3269,508,414,2024-04-24,Diterima dalam kondisi tidak baik,Exchange Sent,50000,34,2024-04-26
+200,282,699,154,2025-12-01,Salah order,Refund Processed,1500000,17,2025-12-11
+201,3182,1673,215,2025-12-31,Pesanan salah kirim,Approved,100000,31,2026-01-07
+202,4396,2405,141,2024-09-30,Warna tidak sesuai deskripsi,Pending Review,50000,28,2024-10-03
+203,9251,215,459,2023-07-07,Warna tidak sesuai deskripsi,Approved,1000000,53,2023-07-11
+204,3784,794,552,2025-11-04,Produk rusak / cacat,Pending Review,300000,10,2025-11-10
+205,1395,564,163,2025-11-15,Warna tidak sesuai deskripsi,Approved,1500000,70,2025-11-21
+206,9833,632,456,2026-03-12,Produk tidak berfungsi,Refund Processed,300000,48,2026-03-24
+207,5195,406,531,2023-02-24,Diterima dalam kondisi tidak baik,Approved,500000,70,2023-03-10
+208,1373,1218,316,2025-03-15,Keterlambatan pengiriman,Approved,100000,8,2025-03-27
+209,5590,1230,320,2024-10-31,Diterima dalam kondisi tidak baik,Approved,250000,5,2024-11-01
+210,9086,447,391,2023-05-12,Produk tidak berfungsi,Pending Review,500000,75,2023-05-15
+211,8810,598,342,2023-07-05,Produk rusak / cacat,Approved,250000,61,2023-07-17
+212,2187,1209,450,2026-05-04,Customer tidak jadi beli,Exchange Sent,50000,64,2026-05-08
+213,8753,1644,104,2023-11-15,Salah order,Refund Processed,750000,35,2023-11-21
+214,2220,1686,285,2026-01-16,Ukuran tidak sesuai,Rejected,300000,35,2026-01-25
+215,7930,622,485,2024-02-13,Diterima dalam kondisi tidak baik,Refund Processed,300000,12,2024-02-14
+216,8066,1574,501,2025-06-07,Salah order,Approved,300000,59,2025-06-13
+217,6527,2114,240,2024-01-09,Pesanan salah kirim,Pending Review,1000000,8,2024-01-15
+218,4209,1644,489,2023-05-16,Keterlambatan pengiriman,Refund Processed,250000,35,2023-05-23
+219,9470,2182,315,2026-01-08,Salah order,Approved,50000,20,2026-01-21
+220,5580,513,459,2024-01-09,Produk rusak / cacat,Pending Review,500000,39,2024-01-18
+221,6486,362,15,2024-10-29,Pesanan salah kirim,Exchange Sent,1500000,71,2024-11-07
+222,3673,1853,121,2025-03-03,Salah order,Approved,500000,54,2025-03-08
+223,8213,2113,87,2026-08-06,Produk tidak berfungsi,Refund Processed,50000,64,2026-08-07
+224,2067,128,286,2025-03-02,Keterlambatan pengiriman,Pending Review,75000,55,2025-03-08
+225,9991,1831,282,2023-10-14,Customer tidak jadi beli,Pending Review,1000000,59,2023-10-19
+226,98,305,4,2026-05-18,Diterima dalam kondisi tidak baik,Refund Processed,1000000,22,2026-05-29
+227,9851,114,225,2023-09-07,Ukuran tidak sesuai,Approved,250000,29,2023-09-11
+228,9981,483,454,2023-08-18,Ukuran tidak sesuai,Approved,250000,26,2023-08-26
+229,8102,673,519,2024-03-19,Warna tidak sesuai deskripsi,Rejected,100000,49,2024-03-20
+230,5627,326,266,2024-05-24,Ukuran tidak sesuai,Pending Review,50000,38,2024-06-04
+231,9579,1256,307,2024-04-29,Tidak sesuai ekspektasi,Pending Review,500000,21,2024-05-08
+232,2005,923,215,2025-02-09,Keterlambatan pengiriman,Pending Review,200000,69,2025-02-14
+233,860,270,22,2026-03-17,Produk tidak berfungsi,Approved,750000,50,2026-03-29
+234,5909,280,121,2023-03-12,Tidak sesuai ekspektasi,Approved,1000000,11,2023-03-26
+235,7550,752,29,2025-03-22,Produk rusak / cacat,Approved,50000,35,2025-03-27
+236,5929,79,486,2025-08-26,Keterlambatan pengiriman,Refund Processed,400000,2,2025-09-02
+237,6894,371,436,2024-03-05,Warna tidak sesuai deskripsi,Approved,200000,42,2024-03-17
+238,5170,1371,308,2024-11-25,Keterlambatan pengiriman,Refund Processed,100000,43,2024-12-09
+239,5877,295,17,2023-05-02,Pesanan salah kirim,Rejected,300000,2,2023-05-11
+240,3549,1635,25,2023-08-19,Warna tidak sesuai deskripsi,Approved,300000,50,2023-08-20
+241,7358,901,22,2023-09-21,Keterlambatan pengiriman,Pending Review,75000,31,2023-09-26
+242,5621,1370,477,2024-07-26,Diterima dalam kondisi tidak baik,Refund Processed,1500000,29,2024-08-04
+243,3154,1678,385,2025-06-11,Salah order,Refund Processed,400000,77,2025-06-19
+244,2961,1592,178,2023-12-21,Produk rusak / cacat,Approved,1000000,13,2023-12-31
+245,6265,2427,28,2024-08-03,Pesanan salah kirim,Pending Review,50000,29,2024-08-14
+246,1024,1429,195,2024-11-22,Customer tidak jadi beli,Approved,150000,12,2024-11-30
+247,6795,2316,111,2025-05-29,Warna tidak sesuai deskripsi,Approved,400000,5,2025-06-02
+248,6150,1670,422,2024-02-23,Salah order,Refund Processed,750000,12,2024-02-27
+249,8200,1566,275,2026-04-25,Produk rusak / cacat,Approved,400000,64,2026-05-08
+250,4350,1181,477,2024-01-15,Warna tidak sesuai deskripsi,Pending Review,250000,2,2024-01-23
+251,2866,1098,292,2025-09-16,Customer tidak jadi beli,Pending Review,400000,5,2025-09-20
+252,9160,810,275,2023-06-17,Produk tidak berfungsi,Approved,100000,38,2023-06-20
+253,6168,1322,315,2023-02-02,Produk tidak berfungsi,Refund Processed,500000,19,2023-02-15
+254,1134,1695,309,2024-12-18,Customer tidak jadi beli,Refund Processed,1500000,64,2024-12-20
+255,4849,518,142,2024-08-28,Produk tidak berfungsi,Refund Processed,75000,44,2024-08-31
+256,4349,1596,419,2023-04-28,Ukuran tidak sesuai,Approved,250000,26,2023-05-08
+257,8239,1197,150,2025-02-26,Ukuran tidak sesuai,Approved,150000,18,2025-03-01
+258,9920,1985,171,2023-08-01,Customer tidak jadi beli,Pending Review,1500000,55,2023-08-14
+259,5280,2444,457,2023-05-31,Diterima dalam kondisi tidak baik,Approved,50000,38,2023-06-05
+260,900,2287,206,2026-05-14,Tidak sesuai ekspektasi,Pending Review,400000,60,2026-05-18
+261,6236,1449,160,2025-08-06,Keterlambatan pengiriman,Approved,250000,48,2025-08-09
+262,846,1717,74,2024-10-16,Tidak sesuai ekspektasi,Pending Review,400000,37,2024-10-22
+263,9601,1267,45,2024-02-04,Keterlambatan pengiriman,Rejected,200000,31,2024-02-15
+264,6364,1294,532,2026-05-21,Ukuran tidak sesuai,Approved,1500000,29,2026-05-24
+265,4891,485,388,2023-06-10,Salah order,Rejected,1500000,53,2023-06-13
+266,1761,1748,181,2023-04-18,Warna tidak sesuai deskripsi,Approved,750000,16,2023-04-25
+267,7628,1626,66,2023-08-20,Tidak sesuai ekspektasi,Exchange Sent,300000,59,2023-08-25
+268,9397,799,483,2025-10-22,Produk rusak / cacat,Approved,250000,69,2025-11-03
+269,5320,1272,17,2023-09-27,Salah order,Approved,50000,23,2023-10-10
+270,3976,2350,358,2024-09-20,Salah order,Approved,750000,73,2024-10-01
+271,7298,2042,435,2024-08-05,Diterima dalam kondisi tidak baik,Approved,50000,37,2024-08-09
+272,4357,305,13,2025-07-28,Customer tidak jadi beli,Approved,400000,25,2025-08-07
+273,7197,2013,14,2024-02-24,Produk tidak berfungsi,Approved,50000,59,2024-03-04
+274,9221,902,259,2024-08-22,Keterlambatan pengiriman,Rejected,150000,60,2024-09-02
+275,9364,791,150,2023-08-05,Produk tidak berfungsi,Refund Processed,500000,10,2023-08-15
+276,5637,1403,274,2026-04-30,Warna tidak sesuai deskripsi,Refund Processed,150000,49,2026-05-12
+277,4071,1962,51,2024-02-02,Produk tidak berfungsi,Exchange Sent,1500000,68,2024-02-10
+278,7463,2490,440,2023-02-26,Produk rusak / cacat,Approved,50000,10,2023-03-09
+279,9421,1167,119,2023-03-19,Keterlambatan pengiriman,Pending Review,150000,11,2023-03-23
+280,4506,2175,53,2023-07-02,Salah order,Refund Processed,400000,27,2023-07-16
+281,800,2170,388,2025-08-18,Diterima dalam kondisi tidak baik,Refund Processed,75000,31,2025-08-24
+282,2986,2348,519,2026-03-28,Produk rusak / cacat,Rejected,50000,24,2026-04-05
+283,2021,2288,172,2024-02-08,Ukuran tidak sesuai,Approved,750000,74,2024-02-13
+284,327,615,300,2023-02-07,Customer tidak jadi beli,Approved,50000,27,2023-02-16
+285,7015,1408,67,2025-08-03,Keterlambatan pengiriman,Pending Review,75000,64,2025-08-17
+286,8134,270,119,2024-08-06,Ukuran tidak sesuai,Approved,150000,70,2024-08-11
+287,2161,788,238,2026-05-19,Pesanan salah kirim,Exchange Sent,150000,14,2026-05-21
+288,7821,827,486,2026-02-05,Salah order,Refund Processed,300000,6,2026-02-15
+289,8768,2221,14,2024-02-26,Customer tidak jadi beli,Exchange Sent,100000,68,2024-02-27
+290,701,983,454,2025-03-12,Ukuran tidak sesuai,Pending Review,1000000,64,2025-03-20
+291,7706,714,131,2026-02-03,Produk tidak berfungsi,Approved,300000,3,2026-02-08
+292,8879,1075,101,2024-12-22,Diterima dalam kondisi tidak baik,Pending Review,750000,64,2024-12-24
+293,2320,2255,13,2025-09-25,Produk tidak berfungsi,Approved,75000,64,2025-10-02
+294,5339,753,323,2024-04-05,Customer tidak jadi beli,Pending Review,100000,38,2024-04-09
+295,6059,1849,221,2024-06-09,Tidak sesuai ekspektasi,Pending Review,300000,28,2024-06-14
+296,3619,2240,163,2025-09-14,Produk rusak / cacat,Rejected,1000000,21,2025-09-19
+297,9793,1133,428,2024-12-11,Warna tidak sesuai deskripsi,Approved,100000,55,2024-12-14
+298,527,1536,25,2026-03-26,Customer tidak jadi beli,Exchange Sent,300000,75,2026-04-05
+299,7593,1077,37,2026-02-06,Warna tidak sesuai deskripsi,Approved,200000,8,2026-02-09
+300,8260,552,268,2023-09-28,Customer tidak jadi beli,Exchange Sent,100000,20,2023-10-10
+301,9854,2206,472,2025-02-14,Salah order,Exchange Sent,500000,64,2025-02-20
+302,4731,31,381,2023-04-30,Customer tidak jadi beli,Refund Processed,100000,59,2023-05-01
+303,9505,1011,512,2025-03-12,Keterlambatan pengiriman,Approved,250000,75,2025-03-26
+304,229,2016,312,2025-06-26,Produk tidak berfungsi,Refund Processed,500000,60,2025-07-09
+305,5254,2267,326,2023-06-11,Salah order,Refund Processed,200000,57,2023-06-14
+306,6333,411,537,2023-11-18,Tidak sesuai ekspektasi,Approved,500000,41,2023-12-02
+307,3729,1946,354,2023-07-07,Customer tidak jadi beli,Approved,50000,57,2023-07-14
+308,1027,1797,73,2026-06-16,Produk rusak / cacat,Approved,250000,71,2026-06-24
+309,4152,1566,26,2025-06-07,Diterima dalam kondisi tidak baik,Exchange Sent,500000,17,2025-06-09
+310,4671,2445,399,2023-12-18,Customer tidak jadi beli,Approved,400000,63,2023-12-25
+311,2753,400,55,2026-02-11,Diterima dalam kondisi tidak baik,Refund Processed,200000,69,2026-02-15
+312,6817,1344,452,2024-04-20,Keterlambatan pengiriman,Approved,1000000,37,2024-05-01
+313,5860,1535,458,2023-02-26,Produk rusak / cacat,Approved,75000,65,2023-03-11
+314,6963,1733,48,2025-03-16,Salah order,Refund Processed,150000,8,2025-03-23
+315,712,1357,427,2026-04-10,Tidak sesuai ekspektasi,Approved,750000,37,2026-04-13
+316,9947,91,133,2026-03-08,Ukuran tidak sesuai,Refund Processed,200000,17,2026-03-09
+317,213,513,284,2024-08-14,Ukuran tidak sesuai,Approved,150000,50,2024-08-21
+318,8140,335,156,2024-06-20,Diterima dalam kondisi tidak baik,Rejected,200000,75,2024-07-01
+319,2700,2454,428,2023-02-18,Tidak sesuai ekspektasi,Refund Processed,750000,10,2023-02-19
+320,3248,441,247,2023-07-27,Salah order,Rejected,1000000,63,2023-08-08
+321,764,1012,141,2026-04-09,Ukuran tidak sesuai,Refund Processed,200000,23,2026-04-21
+322,4415,1445,95,2024-02-09,Ukuran tidak sesuai,Refund Processed,75000,18,2024-02-21
+323,8598,2182,169,2023-12-20,Produk rusak / cacat,Rejected,250000,50,2023-12-31
+324,2719,1695,143,2026-06-05,Ukuran tidak sesuai,Rejected,150000,58,2026-06-17
+325,8704,1506,102,2025-06-15,Customer tidak jadi beli,Pending Review,400000,27,2025-06-19
+326,3180,1570,448,2023-05-02,Keterlambatan pengiriman,Approved,150000,32,2023-05-09
+327,4961,1738,255,2025-04-30,Pesanan salah kirim,Approved,100000,2,2025-05-02
+328,8190,265,27,2025-01-23,Produk tidak berfungsi,Exchange Sent,300000,30,2025-01-31
+329,7658,2288,209,2025-06-11,Diterima dalam kondisi tidak baik,Rejected,500000,77,2025-06-13
+330,4628,1097,99,2025-09-30,Produk tidak berfungsi,Refund Processed,50000,34,2025-10-10
+331,8648,2453,17,2023-11-28,Produk tidak berfungsi,Approved,200000,68,2023-11-29
+332,1510,1754,546,2025-02-22,Produk tidak berfungsi,Refund Processed,250000,68,2025-03-08
+333,1692,1673,347,2025-07-16,Produk rusak / cacat,Refund Processed,500000,28,2025-07-18
+334,7254,1007,145,2026-04-13,Ukuran tidak sesuai,Pending Review,75000,49,2026-04-23
+335,8929,78,291,2025-06-23,Tidak sesuai ekspektasi,Approved,1000000,75,2025-06-25
+336,9133,823,190,2025-04-16,Keterlambatan pengiriman,Rejected,250000,58,2025-04-25
+337,4577,1931,401,2025-12-05,Produk tidak berfungsi,Rejected,400000,55,2025-12-10
+338,3200,1490,296,2024-11-23,Pesanan salah kirim,Approved,500000,3,2024-11-26
+339,8532,943,380,2025-10-11,Tidak sesuai ekspektasi,Pending Review,1000000,55,2025-10-22
+340,1111,390,449,2024-11-23,Diterima dalam kondisi tidak baik,Approved,1000000,40,2024-12-06
+341,6429,1187,507,2023-04-13,Warna tidak sesuai deskripsi,Exchange Sent,150000,25,2023-04-24
+342,6659,1286,484,2024-12-25,Produk tidak berfungsi,Refund Processed,250000,74,2024-12-27
+343,7350,158,106,2024-04-10,Produk rusak / cacat,Refund Processed,150000,38,2024-04-18
+344,1818,60,247,2023-07-09,Produk tidak berfungsi,Pending Review,1500000,17,2023-07-16
+345,986,189,75,2023-06-10,Diterima dalam kondisi tidak baik,Approved,50000,37,2023-06-20
+346,9340,1264,340,2024-11-28,Diterima dalam kondisi tidak baik,Refund Processed,250000,64,2024-12-10
+347,7089,1182,491,2024-01-13,Ukuran tidak sesuai,Refund Processed,1500000,4,2024-01-24
+348,7144,2292,318,2024-07-01,Produk rusak / cacat,Approved,400000,1,2024-07-06
+349,8476,1561,122,2026-03-10,Keterlambatan pengiriman,Approved,500000,29,2026-03-23
+350,5841,2153,297,2026-06-11,Ukuran tidak sesuai,Approved,400000,73,2026-06-21
+351,2521,1632,486,2023-04-09,Tidak sesuai ekspektasi,Rejected,300000,76,2023-04-17
+352,8081,2491,16,2025-08-04,Salah order,Approved,500000,4,2025-08-16
+353,2205,277,226,2026-08-18,Keterlambatan pengiriman,Exchange Sent,500000,33,2026-08-25
+354,3187,669,247,2023-05-31,Salah order,Approved,400000,60,2023-06-05
+355,3468,170,218,2025-04-05,Produk tidak berfungsi,Refund Processed,500000,74,2025-04-15
+356,3954,1656,182,2026-07-21,Tidak sesuai ekspektasi,Approved,150000,69,2026-07-31
+357,616,1345,57,2025-07-15,Salah order,Refund Processed,100000,7,2025-07-16
+358,4006,987,545,2023-10-14,Produk tidak berfungsi,Approved,400000,35,2023-10-28
+359,3411,1326,52,2024-01-28,Ukuran tidak sesuai,Approved,100000,23,2024-02-06
+360,6614,1673,348,2025-06-17,Tidak sesuai ekspektasi,Refund Processed,1500000,19,2025-06-26
+361,424,236,380,2023-02-20,Produk tidak berfungsi,Approved,100000,65,2023-02-28
+362,180,1276,80,2025-07-01,Warna tidak sesuai deskripsi,Approved,300000,21,2025-07-02
+363,6754,1606,75,2025-12-02,Pesanan salah kirim,Approved,75000,58,2025-12-03
+364,5275,1303,372,2024-03-28,Diterima dalam kondisi tidak baik,Approved,250000,24,2024-04-01
+365,8961,966,467,2024-07-20,Produk tidak berfungsi,Pending Review,100000,39,2024-07-24
+366,491,2289,181,2026-06-07,Tidak sesuai ekspektasi,Approved,1500000,39,2026-06-20
+367,686,1397,178,2025-01-10,Ukuran tidak sesuai,Refund Processed,300000,31,2025-01-16
+368,4040,2192,298,2025-11-21,Tidak sesuai ekspektasi,Pending Review,75000,13,2025-11-28
+369,7138,939,62,2024-11-07,Tidak sesuai ekspektasi,Refund Processed,50000,16,2024-11-20
+370,4775,2032,526,2024-05-11,Pesanan salah kirim,Exchange Sent,400000,35,2024-05-19
+371,3047,14,178,2024-07-02,Warna tidak sesuai deskripsi,Refund Processed,75000,44,2024-07-16
+372,4984,1409,551,2024-12-04,Produk rusak / cacat,Approved,50000,34,2024-12-11
+373,1847,820,4,2023-03-17,Pesanan salah kirim,Refund Processed,200000,16,2023-03-20
+374,4630,1042,366,2025-04-06,Salah order,Refund Processed,150000,28,2025-04-12
+375,5322,442,3,2026-03-09,Produk rusak / cacat,Approved,300000,48,2026-03-12
+376,3474,782,361,2024-10-08,Warna tidak sesuai deskripsi,Refund Processed,500000,7,2024-10-15
+377,8446,1113,502,2025-10-06,Customer tidak jadi beli,Approved,75000,29,2025-10-19
+378,426,2428,462,2023-07-05,Ukuran tidak sesuai,Exchange Sent,75000,35,2023-07-11
+379,5924,155,503,2024-07-17,Warna tidak sesuai deskripsi,Approved,75000,8,2024-07-27
+380,2505,1854,323,2025-04-17,Salah order,Approved,75000,48,2025-04-23
+381,7634,25,223,2023-11-27,Diterima dalam kondisi tidak baik,Approved,400000,34,2023-12-02
+382,3686,1695,78,2024-05-29,Produk tidak berfungsi,Exchange Sent,50000,4,2024-06-02
+383,6788,362,138,2025-11-17,Warna tidak sesuai deskripsi,Refund Processed,250000,4,2025-11-29
+384,3639,62,72,2026-03-21,Tidak sesuai ekspektasi,Pending Review,1500000,28,2026-03-28
+385,8365,508,285,2024-02-01,Produk rusak / cacat,Approved,500000,15,2024-02-14
+386,7121,1020,535,2023-03-14,Produk rusak / cacat,Pending Review,100000,9,2023-03-28
+387,6401,1181,290,2025-04-20,Customer tidak jadi beli,Rejected,150000,44,2025-04-23
+388,9183,1302,190,2025-03-01,Pesanan salah kirim,Approved,500000,17,2025-03-09
+389,3096,277,342,2025-01-31,Tidak sesuai ekspektasi,Rejected,50000,4,2025-02-07
+390,6392,892,68,2024-02-13,Produk tidak berfungsi,Refund Processed,300000,48,2024-02-24
+391,1263,1525,159,2026-04-05,Tidak sesuai ekspektasi,Exchange Sent,250000,23,2026-04-18
+392,8142,997,308,2026-07-30,Keterlambatan pengiriman,Approved,1000000,37,2026-08-02
+393,698,1610,175,2024-12-31,Ukuran tidak sesuai,Refund Processed,50000,36,2025-01-09
+394,4699,2206,279,2024-01-26,Diterima dalam kondisi tidak baik,Exchange Sent,1000000,1,2024-01-30
+395,2282,573,60,2025-09-23,Produk tidak berfungsi,Refund Processed,400000,41,2025-09-30
+396,7793,1607,193,2026-04-30,Ukuran tidak sesuai,Approved,300000,20,2026-05-09
+397,1751,440,529,2026-08-03,Customer tidak jadi beli,Refund Processed,50000,28,2026-08-15
+398,2065,1469,332,2024-09-13,Produk tidak berfungsi,Approved,250000,49,2024-09-21
+399,1999,2011,238,2025-07-26,Customer tidak jadi beli,Rejected,400000,49,2025-08-09
+400,7539,2425,46,2023-09-29,Produk rusak / cacat,Approved,50000,46,2023-10-09
+401,5782,1916,552,2024-05-04,Warna tidak sesuai deskripsi,Refund Processed,1000000,63,2024-05-18
+402,9041,827,170,2026-06-27,Diterima dalam kondisi tidak baik,Refund Processed,250000,22,2026-07-08
+403,286,792,467,2024-07-01,Customer tidak jadi beli,Approved,300000,19,2024-07-14
+404,7292,1029,233,2024-09-05,Customer tidak jadi beli,Refund Processed,250000,20,2024-09-08
+405,8534,1383,371,2026-04-29,Customer tidak jadi beli,Refund Processed,500000,32,2026-05-06
+406,5784,1067,535,2026-03-19,Customer tidak jadi beli,Approved,200000,73,2026-03-23
+407,5944,13,314,2025-12-23,Diterima dalam kondisi tidak baik,Refund Processed,1000000,5,2025-12-28
+408,3496,155,175,2026-01-24,Salah order,Pending Review,1000000,12,2026-02-04
+409,6400,2412,312,2024-01-24,Produk rusak / cacat,Approved,300000,61,2024-02-04
+410,774,2200,444,2023-07-13,Warna tidak sesuai deskripsi,Exchange Sent,150000,57,2023-07-21
+411,1733,1995,532,2024-05-09,Keterlambatan pengiriman,Refund Processed,250000,34,2024-05-21
+412,8332,1283,43,2023-07-28,Diterima dalam kondisi tidak baik,Refund Processed,400000,5,2023-08-03
+413,1555,678,61,2023-08-10,Ukuran tidak sesuai,Rejected,100000,6,2023-08-12
+414,9713,1094,433,2025-07-21,Ukuran tidak sesuai,Refund Processed,300000,15,2025-08-01
+415,1357,2374,151,2023-12-22,Tidak sesuai ekspektasi,Refund Processed,75000,25,2023-12-31
+416,3375,1872,497,2024-08-11,Warna tidak sesuai deskripsi,Pending Review,250000,47,2024-08-23
+417,6297,450,157,2025-08-14,Ukuran tidak sesuai,Refund Processed,100000,57,2025-08-25
+418,2946,162,310,2024-06-27,Diterima dalam kondisi tidak baik,Approved,300000,36,2024-07-08
+419,6862,1602,227,2025-12-27,Produk rusak / cacat,Approved,500000,22,2026-01-04
+420,7786,2402,279,2024-04-05,Tidak sesuai ekspektasi,Refund Processed,400000,67,2024-04-09
+421,2304,2222,334,2024-06-02,Produk tidak berfungsi,Pending Review,750000,26,2024-06-13
+422,88,117,2,2025-02-12,Salah order,Pending Review,200000,75,2025-02-21
+423,2664,153,49,2023-10-26,Ukuran tidak sesuai,Exchange Sent,500000,60,2023-11-02
+424,1415,2389,500,2026-07-06,Produk rusak / cacat,Refund Processed,200000,48,2026-07-10
+425,5424,2281,25,2026-04-27,Tidak sesuai ekspektasi,Approved,750000,74,2026-05-05
+426,530,1112,132,2026-08-16,Ukuran tidak sesuai,Approved,500000,47,2026-08-30
+427,1610,1823,12,2023-06-15,Customer tidak jadi beli,Pending Review,400000,22,2023-06-22
+428,2399,667,302,2025-03-02,Tidak sesuai ekspektasi,Refund Processed,400000,72,2025-03-04
+429,3590,97,417,2025-04-09,Customer tidak jadi beli,Approved,1500000,60,2025-04-22
+430,7498,1773,310,2023-12-14,Customer tidak jadi beli,Approved,75000,70,2023-12-19
+431,7049,547,170,2024-04-13,Keterlambatan pengiriman,Pending Review,200000,66,2024-04-20
+432,3291,362,59,2026-05-25,Pesanan salah kirim,Rejected,750000,44,2026-05-29
+433,6631,2337,358,2023-06-27,Customer tidak jadi beli,Refund Processed,100000,49,2023-07-01
+434,977,2038,290,2026-08-29,Salah order,Approved,250000,19,2026-08-31
+435,924,399,133,2023-08-06,Produk rusak / cacat,Refund Processed,150000,49,2023-08-07
+436,2486,512,537,2024-05-20,Warna tidak sesuai deskripsi,Pending Review,75000,10,2024-05-26
+437,1875,1047,286,2025-06-30,Produk tidak berfungsi,Exchange Sent,100000,41,2025-07-14
+438,7559,1321,11,2023-09-20,Produk tidak berfungsi,Refund Processed,200000,15,2023-09-23
+439,1480,2400,501,2025-09-20,Ukuran tidak sesuai,Refund Processed,300000,19,2025-09-23
+440,2201,2056,143,2025-02-03,Diterima dalam kondisi tidak baik,Pending Review,75000,26,2025-02-08
+441,675,909,510,2025-10-10,Produk rusak / cacat,Refund Processed,750000,68,2025-10-20
+442,5881,1223,472,2023-02-13,Ukuran tidak sesuai,Approved,300000,46,2023-02-22
+443,7201,234,208,2023-02-25,Keterlambatan pengiriman,Approved,150000,21,2023-03-07
+444,3381,1262,501,2023-05-17,Warna tidak sesuai deskripsi,Refund Processed,750000,8,2023-05-22
+445,3919,132,496,2026-06-07,Tidak sesuai ekspektasi,Approved,500000,42,2026-06-08
+446,3853,2438,166,2023-12-26,Diterima dalam kondisi tidak baik,Refund Processed,1500000,77,2023-12-29
+447,7067,1250,298,2023-12-16,Ukuran tidak sesuai,Approved,1500000,31,2023-12-23
+448,5595,1911,306,2023-06-20,Warna tidak sesuai deskripsi,Approved,400000,27,2023-06-26
+449,2344,1863,129,2026-03-25,Customer tidak jadi beli,Approved,150000,58,2026-04-07
+450,1465,918,84,2025-04-12,Ukuran tidak sesuai,Rejected,250000,77,2025-04-22
+451,157,1431,186,2023-03-23,Produk tidak berfungsi,Approved,750000,32,2023-03-26
+452,4779,58,315,2024-08-25,Keterlambatan pengiriman,Refund Processed,75000,7,2024-09-01
+453,5364,2465,111,2025-04-06,Keterlambatan pengiriman,Refund Processed,100000,46,2025-04-19
+454,6566,940,299,2026-03-13,Salah order,Exchange Sent,300000,26,2026-03-22
+455,5662,1303,148,2025-09-01,Ukuran tidak sesuai,Approved,1500000,27,2025-09-10
+456,3751,1879,149,2024-10-04,Produk rusak / cacat,Approved,250000,42,2024-10-17
+457,998,299,164,2025-07-10,Keterlambatan pengiriman,Approved,750000,35,2025-07-19
+458,950,468,466,2024-11-08,Salah order,Approved,400000,64,2024-11-22
+459,9014,1736,192,2024-11-14,Salah order,Approved,500000,76,2024-11-25
+460,1059,533,390,2024-04-17,Ukuran tidak sesuai,Approved,300000,27,2024-04-26
+461,1808,1968,72,2025-08-19,Ukuran tidak sesuai,Approved,400000,24,2025-08-20
+462,4091,651,416,2025-08-26,Pesanan salah kirim,Refund Processed,750000,77,2025-09-05
+463,4720,748,134,2024-03-10,Salah order,Pending Review,100000,48,2024-03-13
+464,3842,1845,511,2026-03-26,Ukuran tidak sesuai,Approved,100000,71,2026-03-28
+465,2050,2492,113,2025-01-09,Keterlambatan pengiriman,Pending Review,750000,49,2025-01-18
+466,9132,1359,82,2025-06-06,Customer tidak jadi beli,Refund Processed,50000,63,2025-06-14
+467,14,416,11,2025-07-11,Tidak sesuai ekspektasi,Pending Review,100000,44,2025-07-23
+468,9908,2018,520,2024-05-01,Salah order,Approved,500000,63,2024-05-15
+469,8899,183,311,2024-07-26,Tidak sesuai ekspektasi,Approved,300000,6,2024-08-05
+470,4314,1631,304,2025-12-09,Customer tidak jadi beli,Refund Processed,200000,47,2025-12-17
+471,6896,1781,58,2024-10-26,Customer tidak jadi beli,Exchange Sent,500000,33,2024-11-05
+472,9097,1254,520,2023-09-02,Customer tidak jadi beli,Approved,75000,4,2023-09-12
+473,6026,837,295,2024-05-30,Pesanan salah kirim,Refund Processed,100000,6,2024-06-12
+474,6073,1855,429,2025-02-25,Salah order,Exchange Sent,1500000,36,2025-03-06
+475,2135,1240,72,2025-12-22,Warna tidak sesuai deskripsi,Approved,400000,66,2026-01-05
+476,6830,1439,347,2024-05-15,Produk rusak / cacat,Approved,500000,66,2024-05-25
+477,545,85,522,2023-09-11,Ukuran tidak sesuai,Pending Review,200000,67,2023-09-21
+478,9874,1409,279,2023-10-05,Pesanan salah kirim,Rejected,1000000,9,2023-10-10
+479,4741,1480,310,2023-04-17,Warna tidak sesuai deskripsi,Approved,100000,50,2023-04-30
+480,5733,144,535,2025-02-07,Produk rusak / cacat,Refund Processed,50000,56,2025-02-09
+481,5136,201,355,2025-02-02,Warna tidak sesuai deskripsi,Pending Review,400000,37,2025-02-03
+482,54,2220,425,2026-08-25,Customer tidak jadi beli,Exchange Sent,300000,44,2026-09-02
+483,5744,2421,380,2024-03-07,Produk rusak / cacat,Pending Review,1000000,24,2024-03-18
+484,8297,2311,96,2026-08-28,Produk rusak / cacat,Pending Review,100000,32,2026-08-31
+485,48,1059,54,2024-02-10,Ukuran tidak sesuai,Pending Review,1000000,72,2024-02-15
+486,4820,1016,27,2023-10-31,Produk rusak / cacat,Refund Processed,50000,72,2023-11-13
+487,1309,2013,352,2023-10-03,Diterima dalam kondisi tidak baik,Approved,500000,3,2023-10-16
+488,6202,1924,543,2023-07-27,Tidak sesuai ekspektasi,Pending Review,750000,60,2023-08-05
+489,3010,1553,363,2023-11-07,Tidak sesuai ekspektasi,Refund Processed,500000,38,2023-11-17
+490,9995,2121,365,2026-08-27,Warna tidak sesuai deskripsi,Approved,750000,49,2026-09-01
+491,5336,483,518,2025-07-29,Diterima dalam kondisi tidak baik,Refund Processed,1500000,72,2025-08-07
+492,7287,580,410,2025-12-26,Customer tidak jadi beli,Approved,300000,27,2026-01-05
+493,1715,1873,311,2024-01-06,Customer tidak jadi beli,Rejected,50000,47,2024-01-17
+494,9771,1150,476,2026-06-06,Produk tidak berfungsi,Approved,200000,19,2026-06-20
+495,8750,471,119,2023-02-17,Pesanan salah kirim,Refund Processed,750000,18,2023-03-02
+496,3256,198,383,2023-03-20,Warna tidak sesuai deskripsi,Exchange Sent,75000,68,2023-04-02
+497,6539,1053,191,2025-07-06,Produk rusak / cacat,Approved,250000,24,2025-07-19
+498,1157,2308,122,2025-02-04,Salah order,Refund Processed,400000,64,2025-02-12
+499,3141,643,354,2024-07-20,Produk rusak / cacat,Approved,1500000,44,2024-08-01
+500,3365,1044,370,2023-02-05,Warna tidak sesuai deskripsi,Approved,400000,42,2023-02-18
+501,5870,2305,181,2025-09-28,Tidak sesuai ekspektasi,Approved,150000,31,2025-09-30
+502,7003,2109,271,2023-11-10,Ukuran tidak sesuai,Rejected,400000,37,2023-11-12
+503,7879,335,449,2024-10-11,Produk tidak berfungsi,Approved,400000,1,2024-10-25
+504,4642,2253,369,2025-06-24,Warna tidak sesuai deskripsi,Approved,750000,42,2025-07-02
+505,9058,231,532,2023-08-23,Tidak sesuai ekspektasi,Pending Review,75000,57,2023-09-06
+506,8924,1258,15,2025-10-01,Produk rusak / cacat,Approved,150000,55,2025-10-03
+507,2677,1571,254,2024-04-10,Tidak sesuai ekspektasi,Refund Processed,1000000,35,2024-04-21
+508,6346,418,344,2023-03-12,Ukuran tidak sesuai,Approved,75000,21,2023-03-15
+509,438,1136,206,2026-03-27,Diterima dalam kondisi tidak baik,Pending Review,750000,48,2026-04-09
+510,4266,757,151,2024-01-09,Warna tidak sesuai deskripsi,Approved,1500000,68,2024-01-22
+511,510,1540,368,2025-11-30,Produk rusak / cacat,Rejected,750000,25,2025-12-04
+512,2644,2174,487,2026-05-08,Keterlambatan pengiriman,Approved,50000,5,2026-05-15
+513,3157,1050,389,2023-11-15,Tidak sesuai ekspektasi,Rejected,250000,32,2023-11-21
+514,5989,967,190,2023-10-25,Produk rusak / cacat,Rejected,100000,28,2023-10-28
+515,3015,341,486,2026-07-03,Customer tidak jadi beli,Refund Processed,750000,10,2026-07-16
+516,1652,877,45,2024-07-15,Warna tidak sesuai deskripsi,Pending Review,500000,17,2024-07-18
+517,2235,1709,224,2025-06-06,Keterlambatan pengiriman,Approved,1000000,15,2025-06-07
+518,1662,773,202,2026-08-03,Warna tidak sesuai deskripsi,Rejected,300000,68,2026-08-13
+519,4432,1167,211,2023-11-15,Produk tidak berfungsi,Refund Processed,250000,47,2023-11-21
+520,1987,1788,418,2023-09-05,Salah order,Exchange Sent,50000,21,2023-09-13
+521,1206,83,85,2023-03-24,Ukuran tidak sesuai,Pending Review,400000,44,2023-03-31
+522,5917,1298,252,2026-07-23,Tidak sesuai ekspektasi,Exchange Sent,100000,29,2026-07-28
+523,931,592,346,2023-08-05,Ukuran tidak sesuai,Approved,1500000,34,2023-08-07
+524,4176,2372,377,2023-03-06,Warna tidak sesuai deskripsi,Approved,300000,51,2023-03-08
+525,5918,2326,347,2023-03-15,Produk rusak / cacat,Pending Review,400000,62,2023-03-21
+526,2132,989,211,2023-05-29,Ukuran tidak sesuai,Approved,1500000,33,2023-06-09
+527,4130,1616,437,2024-12-23,Customer tidak jadi beli,Approved,750000,64,2024-12-26
+528,6730,486,368,2026-04-30,Pesanan salah kirim,Refund Processed,250000,69,2026-05-02
+529,4260,1199,348,2025-02-13,Salah order,Refund Processed,300000,65,2025-02-19
+530,8511,1867,537,2024-12-04,Produk rusak / cacat,Approved,400000,2,2024-12-16
+531,9073,963,531,2025-06-14,Pesanan salah kirim,Refund Processed,1000000,55,2025-06-26
+532,1956,486,15,2024-09-18,Pesanan salah kirim,Pending Review,100000,41,2024-10-02
+533,1982,1704,318,2025-04-21,Produk rusak / cacat,Exchange Sent,500000,36,2025-04-28
+534,5404,848,60,2025-04-05,Ukuran tidak sesuai,Approved,50000,5,2025-04-13
+535,4701,1054,279,2024-06-05,Pesanan salah kirim,Approved,500000,48,2024-06-12
+536,5054,1482,482,2026-08-21,Diterima dalam kondisi tidak baik,Approved,150000,36,2026-08-29
+537,1534,1175,344,2026-07-16,Salah order,Rejected,500000,39,2026-07-20
+538,1856,967,491,2024-03-15,Pesanan salah kirim,Approved,1500000,39,2024-03-22
+539,1654,27,80,2023-02-18,Customer tidak jadi beli,Rejected,250000,20,2023-02-21
+540,7225,1356,367,2026-05-19,Ukuran tidak sesuai,Rejected,1500000,64,2026-05-26
+541,6362,1586,404,2026-08-28,Customer tidak jadi beli,Rejected,75000,54,2026-09-03
+542,5879,302,246,2024-01-28,Produk rusak / cacat,Rejected,400000,5,2024-02-05
+543,2954,240,478,2025-11-17,Salah order,Approved,250000,4,2025-11-25
+544,2168,630,426,2025-12-08,Ukuran tidak sesuai,Rejected,75000,27,2025-12-19
+545,6348,1134,342,2023-12-05,Pesanan salah kirim,Approved,50000,44,2023-12-19
+546,6806,819,464,2026-01-31,Diterima dalam kondisi tidak baik,Refund Processed,750000,5,2026-02-03
+547,3436,1990,306,2024-07-10,Tidak sesuai ekspektasi,Refund Processed,400000,56,2024-07-18
+548,3932,2384,11,2026-06-26,Tidak sesuai ekspektasi,Approved,150000,16,2026-07-05
+549,71,1004,214,2024-04-25,Produk rusak / cacat,Pending Review,300000,29,2024-05-03
+550,6836,2139,437,2025-07-12,Ukuran tidak sesuai,Approved,200000,10,2025-07-21
+551,2125,1608,387,2026-02-20,Tidak sesuai ekspektasi,Approved,75000,72,2026-03-04
+552,1374,613,354,2023-10-17,Salah order,Rejected,500000,40,2023-10-22
+553,2862,924,402,2026-08-06,Diterima dalam kondisi tidak baik,Exchange Sent,200000,40,2026-08-09
+554,8784,1533,85,2025-10-31,Warna tidak sesuai deskripsi,Pending Review,400000,53,2025-11-02
+555,4370,198,160,2024-09-06,Produk tidak berfungsi,Pending Review,150000,70,2024-09-17
+556,6903,956,72,2025-05-16,Ukuran tidak sesuai,Refund Processed,75000,30,2025-05-27
+557,2755,600,336,2023-10-11,Produk tidak berfungsi,Refund Processed,300000,17,2023-10-20
+558,5007,1055,378,2025-02-16,Customer tidak jadi beli,Approved,150000,49,2025-03-02
+559,1064,904,327,2023-05-23,Pesanan salah kirim,Pending Review,1000000,6,2023-06-02
+560,391,1325,194,2023-12-13,Ukuran tidak sesuai,Rejected,1000000,17,2023-12-18
+561,2000,2147,141,2024-03-31,Salah order,Approved,100000,4,2024-04-12
+562,9322,29,399,2026-08-16,Tidak sesuai ekspektasi,Exchange Sent,300000,30,2026-08-20
+563,6451,2031,321,2023-06-11,Produk tidak berfungsi,Approved,100000,66,2023-06-12
+564,4361,114,370,2025-09-20,Ukuran tidak sesuai,Pending Review,150000,11,2025-10-03
+565,9314,1057,546,2024-06-22,Diterima dalam kondisi tidak baik,Approved,150000,1,2024-07-02
+566,878,1857,457,2023-10-30,Ukuran tidak sesuai,Exchange Sent,75000,1,2023-10-31
+567,8907,2226,264,2023-03-31,Salah order,Pending Review,150000,44,2023-04-05
+568,3081,1747,527,2025-11-22,Pesanan salah kirim,Refund Processed,500000,22,2025-11-25
+569,5085,1913,160,2024-08-19,Customer tidak jadi beli,Refund Processed,400000,27,2024-09-01
+570,5103,2312,278,2025-08-29,Produk rusak / cacat,Refund Processed,750000,32,2025-09-01
+571,9789,980,231,2026-02-25,Tidak sesuai ekspektasi,Pending Review,500000,59,2026-03-02
+572,8969,1785,8,2026-01-29,Produk rusak / cacat,Approved,1000000,60,2026-02-02
+573,5542,1484,282,2024-09-29,Warna tidak sesuai deskripsi,Exchange Sent,750000,1,2024-10-11
+574,372,510,99,2024-03-30,Ukuran tidak sesuai,Approved,750000,72,2024-04-02
+575,2381,714,26,2024-01-13,Ukuran tidak sesuai,Approved,100000,30,2024-01-27
+576,5049,872,491,2025-08-05,Diterima dalam kondisi tidak baik,Refund Processed,75000,1,2025-08-19
+577,4668,2178,62,2024-12-01,Diterima dalam kondisi tidak baik,Approved,200000,48,2024-12-11
+578,3277,1917,341,2025-12-12,Warna tidak sesuai deskripsi,Approved,100000,34,2025-12-26
+579,6996,1911,76,2025-04-18,Customer tidak jadi beli,Refund Processed,500000,59,2025-04-20
+580,3473,276,195,2026-05-25,Diterima dalam kondisi tidak baik,Approved,750000,72,2026-06-06
+581,8151,2335,139,2025-12-10,Customer tidak jadi beli,Refund Processed,75000,67,2025-12-15
+582,737,2000,88,2026-05-14,Salah order,Refund Processed,150000,40,2026-05-18
+583,6926,264,18,2024-02-06,Keterlambatan pengiriman,Approved,1500000,3,2024-02-08
+584,1076,2148,261,2023-02-07,Tidak sesuai ekspektasi,Approved,300000,43,2023-02-20
+585,2523,1314,268,2023-07-06,Tidak sesuai ekspektasi,Approved,150000,57,2023-07-07
+586,776,630,219,2026-04-18,Salah order,Pending Review,300000,47,2026-04-28
+587,9010,1631,437,2023-02-03,Salah order,Approved,300000,20,2023-02-17
+588,3644,2477,285,2023-02-02,Produk rusak / cacat,Refund Processed,1000000,62,2023-02-10
+589,1028,1342,365,2024-10-27,Diterima dalam kondisi tidak baik,Refund Processed,400000,63,2024-11-09
+590,7357,2055,332,2024-08-27,Produk tidak berfungsi,Approved,150000,6,2024-09-07
+591,9475,2352,189,2026-07-21,Diterima dalam kondisi tidak baik,Refund Processed,250000,74,2026-07-31
+592,3111,189,481,2025-12-07,Produk rusak / cacat,Approved,200000,41,2025-12-13
+593,9329,494,503,2025-12-05,Diterima dalam kondisi tidak baik,Approved,1500000,69,2025-12-10
+594,7112,2346,204,2024-01-01,Warna tidak sesuai deskripsi,Exchange Sent,750000,33,2024-01-13
+595,8763,2102,249,2025-05-30,Ukuran tidak sesuai,Approved,750000,43,2025-06-05
+596,5983,1145,414,2025-12-04,Ukuran tidak sesuai,Approved,750000,43,2025-12-17
+597,1223,1026,19,2024-05-02,Diterima dalam kondisi tidak baik,Refund Processed,150000,44,2024-05-03
+598,3543,560,391,2025-11-13,Pesanan salah kirim,Rejected,750000,20,2025-11-17
+599,1470,1853,343,2024-03-26,Salah order,Rejected,100000,60,2024-04-03
+600,7198,2372,275,2023-05-06,Keterlambatan pengiriman,Exchange Sent,150000,76,2023-05-11
+601,512,2005,303,2024-03-29,Keterlambatan pengiriman,Pending Review,300000,37,2024-03-30
+602,3412,1451,146,2024-07-15,Diterima dalam kondisi tidak baik,Approved,50000,54,2024-07-28
+603,584,1291,5,2023-11-09,Produk rusak / cacat,Refund Processed,1000000,67,2023-11-12
+604,2559,941,514,2023-02-23,Salah order,Refund Processed,250000,77,2023-03-03
+605,8607,1363,3,2026-07-15,Warna tidak sesuai deskripsi,Exchange Sent,200000,39,2026-07-27
+606,1616,848,395,2025-03-24,Salah order,Refund Processed,1000000,44,2025-03-27
+607,832,606,194,2023-12-10,Produk rusak / cacat,Approved,1500000,42,2023-12-23
+608,6747,1929,409,2025-02-28,Pesanan salah kirim,Approved,50000,14,2025-03-05
+609,2990,684,285,2026-06-07,Salah order,Approved,250000,50,2026-06-15
+610,7023,291,491,2026-07-12,Produk rusak / cacat,Rejected,100000,46,2026-07-24
+611,1703,534,68,2025-08-23,Keterlambatan pengiriman,Pending Review,250000,61,2025-08-29
+612,1431,746,139,2024-11-12,Produk tidak berfungsi,Refund Processed,500000,70,2024-11-14
+613,713,522,236,2023-05-05,Produk tidak berfungsi,Rejected,250000,10,2023-05-18
+614,3539,2430,220,2024-11-05,Diterima dalam kondisi tidak baik,Refund Processed,75000,10,2024-11-15
+615,2495,79,4,2023-06-05,Produk rusak / cacat,Approved,100000,72,2023-06-09
+616,2228,2357,120,2024-10-17,Salah order,Approved,50000,62,2024-10-23
+617,9564,1841,335,2023-07-13,Produk tidak berfungsi,Refund Processed,150000,29,2023-07-26
+618,4948,696,382,2023-05-13,Pesanan salah kirim,Exchange Sent,250000,37,2023-05-24
+619,5977,132,92,2023-02-23,Ukuran tidak sesuai,Refund Processed,400000,71,2023-02-28
+620,8358,238,387,2025-07-26,Ukuran tidak sesuai,Rejected,150000,32,2025-08-09
+621,6895,2054,494,2025-05-20,Diterima dalam kondisi tidak baik,Pending Review,400000,70,2025-06-01
+622,4313,456,390,2026-01-19,Produk rusak / cacat,Approved,200000,74,2026-01-25
+623,4648,735,544,2024-05-23,Ukuran tidak sesuai,Approved,300000,70,2024-05-31
+624,6734,1004,291,2024-06-05,Ukuran tidak sesuai,Refund Processed,75000,40,2024-06-13
+625,3016,2061,44,2023-09-17,Produk tidak berfungsi,Pending Review,300000,70,2023-09-27
+626,8742,749,401,2026-06-23,Tidak sesuai ekspektasi,Exchange Sent,1000000,23,2026-07-03
+627,8670,720,255,2023-06-16,Keterlambatan pengiriman,Refund Processed,300000,30,2023-06-22
+628,9007,1672,552,2024-11-02,Diterima dalam kondisi tidak baik,Rejected,750000,58,2024-11-04
+629,1502,1234,23,2024-02-18,Warna tidak sesuai deskripsi,Refund Processed,750000,6,2024-03-02
+630,39,351,345,2026-07-10,Salah order,Rejected,300000,43,2026-07-22
+631,9509,1044,509,2025-08-07,Tidak sesuai ekspektasi,Pending Review,50000,47,2025-08-15
+632,9895,417,238,2023-02-06,Warna tidak sesuai deskripsi,Approved,75000,40,2023-02-09
+633,8516,1623,386,2023-05-21,Customer tidak jadi beli,Refund Processed,300000,17,2023-05-28
+634,9779,573,61,2025-11-20,Warna tidak sesuai deskripsi,Refund Processed,1500000,18,2025-12-01
+635,9841,1593,148,2026-05-21,Ukuran tidak sesuai,Rejected,200000,75,2026-06-02
+636,1657,1259,268,2023-07-30,Pesanan salah kirim,Pending Review,750000,41,2023-08-04
+637,7440,1044,340,2024-02-14,Warna tidak sesuai deskripsi,Pending Review,75000,11,2024-02-26
+638,4036,755,365,2025-04-30,Tidak sesuai ekspektasi,Approved,750000,60,2025-05-12
+639,9032,1950,359,2023-05-18,Produk rusak / cacat,Pending Review,300000,21,2023-05-30
+640,7855,1764,74,2024-02-08,Tidak sesuai ekspektasi,Refund Processed,100000,39,2024-02-19
+641,483,422,480,2026-08-13,Produk tidak berfungsi,Rejected,750000,52,2026-08-21
+642,6090,22,4,2023-08-21,Produk rusak / cacat,Exchange Sent,150000,19,2023-09-04
+643,4854,2376,268,2024-03-20,Tidak sesuai ekspektasi,Approved,400000,25,2024-04-02
+644,7626,922,446,2024-03-05,Customer tidak jadi beli,Refund Processed,50000,76,2024-03-19
+645,6120,1450,414,2025-02-13,Warna tidak sesuai deskripsi,Approved,1500000,50,2025-02-25
+646,4657,608,413,2024-10-25,Produk tidak berfungsi,Refund Processed,100000,57,2024-10-31
+647,8823,6,293,2026-04-09,Warna tidak sesuai deskripsi,Pending Review,50000,52,2026-04-23
+648,9219,2056,162,2026-06-18,Ukuran tidak sesuai,Rejected,750000,3,2026-06-30
+649,9610,114,411,2025-06-25,Warna tidak sesuai deskripsi,Rejected,75000,51,2025-07-02
+650,5549,892,4,2023-04-03,Diterima dalam kondisi tidak baik,Pending Review,500000,12,2023-04-05
+651,2772,2133,96,2026-08-02,Produk tidak berfungsi,Refund Processed,1000000,46,2026-08-11
+652,651,651,515,2023-05-21,Keterlambatan pengiriman,Refund Processed,75000,43,2023-06-01
+653,6143,1550,118,2024-12-18,Ukuran tidak sesuai,Exchange Sent,200000,4,2024-12-29
+654,859,1883,208,2026-03-09,Customer tidak jadi beli,Refund Processed,75000,39,2026-03-20
+655,9600,2144,278,2025-04-16,Customer tidak jadi beli,Approved,1000000,43,2025-04-17
+656,1587,1314,241,2025-02-28,Tidak sesuai ekspektasi,Pending Review,50000,46,2025-03-06
+657,8042,2229,533,2023-07-03,Pesanan salah kirim,Refund Processed,1500000,11,2023-07-14
+658,6103,553,467,2026-08-19,Salah order,Approved,50000,68,2026-08-28
+659,6904,853,343,2024-06-03,Produk tidak berfungsi,Pending Review,250000,42,2024-06-16
+660,2904,182,306,2023-06-15,Pesanan salah kirim,Approved,1000000,29,2023-06-16
+661,1716,1889,75,2026-03-24,Ukuran tidak sesuai,Approved,75000,60,2026-03-26
+662,1194,2252,507,2023-05-22,Ukuran tidak sesuai,Rejected,1500000,2,2023-06-01
+663,3794,820,50,2025-11-16,Ukuran tidak sesuai,Approved,750000,39,2025-11-21
+664,9402,2191,104,2026-08-26,Keterlambatan pengiriman,Pending Review,50000,35,2026-08-31
+665,6287,882,442,2026-06-24,Pesanan salah kirim,Approved,250000,16,2026-07-06
+666,2225,1153,31,2026-01-21,Warna tidak sesuai deskripsi,Exchange Sent,500000,21,2026-01-27
+667,8299,1682,200,2024-07-17,Produk tidak berfungsi,Pending Review,400000,35,2024-07-31
+668,1630,2361,88,2024-04-17,Ukuran tidak sesuai,Approved,75000,62,2024-04-26
+669,7998,1028,257,2025-11-22,Keterlambatan pengiriman,Approved,250000,33,2025-11-23
+670,8613,2272,548,2024-05-26,Customer tidak jadi beli,Approved,400000,68,2024-05-29
+671,3797,489,315,2023-02-19,Salah order,Refund Processed,100000,40,2023-03-01
+672,8606,425,399,2025-05-23,Keterlambatan pengiriman,Approved,400000,36,2025-06-04
+673,8152,541,508,2025-07-03,Tidak sesuai ekspektasi,Refund Processed,400000,39,2025-07-15
+674,5493,876,430,2024-01-02,Diterima dalam kondisi tidak baik,Refund Processed,500000,1,2024-01-10
+675,6820,2402,95,2026-05-17,Salah order,Pending Review,250000,41,2026-05-31
+676,4382,2355,21,2025-03-23,Produk rusak / cacat,Pending Review,150000,37,2025-03-28
+677,5536,811,466,2023-12-28,Warna tidak sesuai deskripsi,Pending Review,100000,1,2024-01-01
+678,2892,749,200,2024-04-08,Tidak sesuai ekspektasi,Approved,750000,2,2024-04-14
+679,3855,1412,67,2025-10-05,Diterima dalam kondisi tidak baik,Rejected,150000,65,2025-10-15
+680,1674,1832,484,2024-07-04,Salah order,Refund Processed,1000000,41,2024-07-11
+681,865,1129,530,2026-04-26,Salah order,Pending Review,1500000,34,2026-05-09
+682,8451,341,140,2024-10-18,Pesanan salah kirim,Pending Review,75000,36,2024-10-26
+683,2355,209,456,2025-07-28,Customer tidak jadi beli,Approved,50000,65,2025-07-31
+684,664,1902,321,2024-11-01,Customer tidak jadi beli,Refund Processed,150000,19,2024-11-14
+685,2299,1833,272,2024-05-03,Produk tidak berfungsi,Exchange Sent,250000,72,2024-05-15
+686,2412,1605,294,2025-10-02,Keterlambatan pengiriman,Refund Processed,100000,60,2025-10-12
+687,2741,1152,153,2023-07-31,Produk rusak / cacat,Rejected,100000,73,2023-08-09
+688,6544,385,259,2026-05-22,Produk tidak berfungsi,Approved,50000,63,2026-05-30
+689,2930,878,9,2023-04-27,Salah order,Refund Processed,250000,76,2023-04-30
+690,9145,2467,172,2024-12-18,Pesanan salah kirim,Refund Processed,100000,53,2024-12-26
+691,4081,1354,25,2023-03-04,Salah order,Exchange Sent,1000000,45,2023-03-11
+692,8334,1326,8,2025-08-29,Keterlambatan pengiriman,Approved,400000,1,2025-09-03
+693,2993,2056,383,2024-09-28,Produk rusak / cacat,Pending Review,400000,75,2024-09-30
+694,7962,1040,426,2023-09-08,Pesanan salah kirim,Refund Processed,1000000,14,2023-09-22
+695,86,2313,15,2026-07-01,Pesanan salah kirim,Exchange Sent,750000,14,2026-07-02
+696,7711,2159,435,2026-08-19,Warna tidak sesuai deskripsi,Exchange Sent,50000,75,2026-08-23
+697,2553,151,104,2026-08-20,Salah order,Approved,300000,59,2026-08-29
+698,4534,246,61,2026-04-13,Tidak sesuai ekspektasi,Exchange Sent,200000,68,2026-04-24
+699,5738,1077,151,2025-03-09,Customer tidak jadi beli,Refund Processed,1500000,13,2025-03-15
+700,8273,1127,250,2023-08-25,Pesanan salah kirim,Exchange Sent,750000,74,2023-09-04
+701,7189,1068,465,2024-09-08,Pesanan salah kirim,Refund Processed,50000,26,2024-09-13
+702,3684,2193,46,2024-03-20,Ukuran tidak sesuai,Approved,300000,65,2024-04-02
+703,1096,1587,215,2026-01-17,Keterlambatan pengiriman,Pending Review,750000,9,2026-01-28
+704,6994,1948,351,2026-01-20,Diterima dalam kondisi tidak baik,Approved,1000000,45,2026-02-01
+705,7740,503,206,2025-04-08,Diterima dalam kondisi tidak baik,Refund Processed,300000,22,2025-04-11
+706,6494,2499,7,2024-11-26,Warna tidak sesuai deskripsi,Refund Processed,500000,35,2024-12-07
+707,5220,1330,51,2023-10-23,Diterima dalam kondisi tidak baik,Approved,75000,67,2023-11-01
+708,775,1185,55,2026-03-11,Keterlambatan pengiriman,Approved,150000,45,2026-03-12
+709,7035,783,311,2023-08-09,Produk rusak / cacat,Pending Review,250000,19,2023-08-10
+710,6823,915,24,2024-10-06,Keterlambatan pengiriman,Approved,500000,32,2024-10-20
+711,1446,2259,264,2025-02-13,Ukuran tidak sesuai,Rejected,750000,44,2025-02-27
+712,5363,1441,284,2025-12-28,Ukuran tidak sesuai,Approved,50000,77,2026-01-08
+713,7265,2467,273,2026-04-01,Tidak sesuai ekspektasi,Rejected,300000,32,2026-04-04
+714,7600,215,7,2024-08-15,Warna tidak sesuai deskripsi,Pending Review,1000000,62,2024-08-18
+715,238,312,231,2024-02-08,Pesanan salah kirim,Approved,200000,12,2024-02-10
+716,1830,1712,116,2024-05-04,Diterima dalam kondisi tidak baik,Approved,500000,52,2024-05-08
+717,623,726,434,2023-11-05,Produk tidak berfungsi,Exchange Sent,400000,67,2023-11-17
+718,5779,1517,206,2025-04-22,Produk rusak / cacat,Refund Processed,200000,76,2025-05-01
+719,5249,394,123,2025-04-02,Produk tidak berfungsi,Rejected,750000,3,2025-04-05
+720,3905,609,339,2024-02-13,Ukuran tidak sesuai,Refund Processed,200000,52,2024-02-16
+721,8983,1515,26,2026-08-07,Pesanan salah kirim,Approved,100000,59,2026-08-21
+722,9210,1849,408,2023-04-09,Tidak sesuai ekspektasi,Refund Processed,75000,73,2023-04-21
+723,7801,2325,80,2025-01-18,Salah order,Exchange Sent,750000,34,2025-01-28
+724,9644,2298,121,2024-01-16,Produk rusak / cacat,Approved,150000,52,2024-01-18
+725,3827,1911,55,2025-01-22,Keterlambatan pengiriman,Approved,1500000,75,2025-02-03
+726,536,943,260,2024-02-27,Keterlambatan pengiriman,Refund Processed,300000,62,2024-03-10
+727,3026,966,246,2024-10-21,Keterlambatan pengiriman,Exchange Sent,1500000,70,2024-10-30
+728,2076,547,338,2024-09-10,Salah order,Approved,75000,38,2024-09-11
+729,7353,1733,302,2024-10-30,Salah order,Refund Processed,300000,13,2024-11-07
+730,3316,2393,386,2023-04-27,Produk tidak berfungsi,Pending Review,1500000,31,2023-05-02
+731,7683,681,380,2025-05-30,Keterlambatan pengiriman,Rejected,400000,67,2025-06-12
+732,7022,2045,487,2026-07-23,Diterima dalam kondisi tidak baik,Pending Review,1000000,76,2026-07-26
+733,234,1765,503,2025-08-07,Customer tidak jadi beli,Approved,50000,43,2025-08-19
+734,5705,1456,240,2026-02-12,Customer tidak jadi beli,Approved,500000,18,2026-02-21
+735,2049,994,253,2025-12-09,Warna tidak sesuai deskripsi,Rejected,200000,26,2025-12-13
+736,4411,18,459,2025-03-05,Ukuran tidak sesuai,Exchange Sent,500000,53,2025-03-13
+737,8920,904,272,2025-08-26,Keterlambatan pengiriman,Approved,200000,50,2025-09-02
+738,5092,1381,31,2025-12-11,Pesanan salah kirim,Approved,750000,15,2025-12-13
+739,1172,455,157,2024-08-12,Tidak sesuai ekspektasi,Approved,1000000,46,2024-08-21
+740,5669,1891,538,2025-10-14,Keterlambatan pengiriman,Exchange Sent,200000,71,2025-10-26
+741,3373,2387,198,2023-12-20,Diterima dalam kondisi tidak baik,Approved,50000,56,2023-12-21
+742,769,1613,71,2024-06-01,Ukuran tidak sesuai,Approved,100000,29,2024-06-05
+743,1935,1610,28,2026-01-13,Produk tidak berfungsi,Exchange Sent,500000,58,2026-01-17
+744,9149,2145,319,2023-05-25,Tidak sesuai ekspektasi,Pending Review,1000000,74,2023-05-26
+745,2106,407,539,2025-10-17,Ukuran tidak sesuai,Rejected,500000,25,2025-10-20
+746,165,2295,126,2023-12-12,Tidak sesuai ekspektasi,Approved,400000,9,2023-12-23
+747,9830,774,441,2024-09-22,Diterima dalam kondisi tidak baik,Approved,1500000,77,2024-10-01
+748,7964,1540,83,2026-05-04,Pesanan salah kirim,Refund Processed,750000,42,2026-05-18
+749,8445,2301,127,2026-05-17,Customer tidak jadi beli,Refund Processed,1000000,2,2026-05-21
+750,6889,2253,352,2026-08-09,Ukuran tidak sesuai,Refund Processed,500000,2,2026-08-12
+751,6549,590,536,2026-08-21,Salah order,Approved,75000,47,2026-08-31
+752,8185,1351,255,2026-08-31,Customer tidak jadi beli,Approved,200000,27,2026-09-02
+753,1051,2009,7,2026-06-18,Produk tidak berfungsi,Refund Processed,1000000,63,2026-06-28
+754,3088,1428,47,2024-11-24,Produk rusak / cacat,Refund Processed,750000,16,2024-11-30
+755,3006,273,518,2024-07-28,Keterlambatan pengiriman,Exchange Sent,200000,14,2024-07-31
+756,5720,165,13,2026-07-23,Produk tidak berfungsi,Approved,1500000,60,2026-07-25
+757,5392,434,230,2023-02-13,Produk rusak / cacat,Rejected,50000,70,2023-02-24
+758,8001,1079,347,2025-05-17,Ukuran tidak sesuai,Approved,300000,51,2025-05-23
+759,1917,448,375,2023-07-30,Salah order,Approved,100000,61,2023-08-12
+760,6487,1959,396,2024-04-11,Keterlambatan pengiriman,Approved,750000,12,2024-04-25
+761,5884,2220,254,2024-03-28,Customer tidak jadi beli,Rejected,1500000,73,2024-04-03
+762,8351,909,384,2023-11-15,Produk rusak / cacat,Pending Review,1000000,7,2023-11-23
+763,6154,27,75,2023-08-19,Tidak sesuai ekspektasi,Refund Processed,750000,30,2023-08-21
+764,1680,344,439,2025-05-19,Warna tidak sesuai deskripsi,Approved,100000,74,2025-05-22
+765,3211,1215,387,2025-06-14,Warna tidak sesuai deskripsi,Approved,1500000,48,2025-06-23
+766,4214,2240,332,2024-01-19,Pesanan salah kirim,Approved,750000,71,2024-01-30
+767,1469,2197,225,2025-01-05,Salah order,Pending Review,100000,77,2025-01-14
+768,1984,288,201,2023-04-18,Keterlambatan pengiriman,Approved,250000,42,2023-04-21
+769,6033,795,221,2026-05-24,Pesanan salah kirim,Rejected,75000,62,2026-05-25
+770,3114,2183,374,2024-09-02,Customer tidak jadi beli,Refund Processed,400000,29,2024-09-08
+771,1351,1995,217,2023-07-15,Keterlambatan pengiriman,Exchange Sent,75000,76,2023-07-17
+772,1072,242,254,2025-08-15,Customer tidak jadi beli,Approved,50000,66,2025-08-29
+773,6919,62,297,2023-05-01,Produk tidak berfungsi,Rejected,750000,55,2023-05-02
+774,7349,2169,407,2025-07-13,Produk rusak / cacat,Approved,100000,1,2025-07-17
+775,7157,1977,200,2025-04-26,Warna tidak sesuai deskripsi,Approved,1000000,30,2025-05-07
+776,7330,785,156,2023-06-24,Ukuran tidak sesuai,Approved,250000,42,2023-06-29
+777,662,1915,28,2024-12-06,Produk rusak / cacat,Refund Processed,400000,74,2024-12-18
+778,6794,1236,102,2023-09-21,Warna tidak sesuai deskripsi,Approved,400000,53,2023-09-30
+779,845,2154,437,2023-10-21,Ukuran tidak sesuai,Approved,400000,6,2023-10-26
+780,1539,1774,56,2026-07-28,Tidak sesuai ekspektasi,Refund Processed,100000,40,2026-08-04
+781,4901,2120,320,2024-11-27,Pesanan salah kirim,Refund Processed,75000,62,2024-11-28
+782,8315,1806,430,2024-09-20,Diterima dalam kondisi tidak baik,Approved,150000,58,2024-09-26
+783,6433,2227,354,2024-10-08,Pesanan salah kirim,Refund Processed,50000,11,2024-10-21
+784,5445,2389,292,2026-08-17,Diterima dalam kondisi tidak baik,Approved,150000,24,2026-08-21
+785,5721,1770,297,2023-04-06,Customer tidak jadi beli,Approved,400000,62,2023-04-14
+786,1034,1065,207,2025-09-03,Tidak sesuai ekspektasi,Rejected,1000000,42,2025-09-04
+787,5458,1180,177,2024-09-26,Salah order,Rejected,50000,62,2024-09-30
+788,9924,271,491,2024-01-25,Pesanan salah kirim,Approved,200000,58,2024-01-31
+789,3039,664,116,2025-10-26,Ukuran tidak sesuai,Rejected,1000000,68,2025-11-02
+790,442,2100,194,2023-09-17,Produk rusak / cacat,Refund Processed,150000,69,2023-09-24
+791,7281,993,338,2024-01-05,Salah order,Approved,500000,47,2024-01-10
+792,6420,2477,542,2025-08-08,Warna tidak sesuai deskripsi,Refund Processed,500000,68,2025-08-15
+793,8194,181,450,2026-08-06,Produk rusak / cacat,Refund Processed,300000,47,2026-08-19
+794,5266,781,393,2025-01-07,Pesanan salah kirim,Refund Processed,750000,4,2025-01-20
+795,541,411,393,2023-03-14,Pesanan salah kirim,Exchange Sent,500000,23,2023-03-22
+796,3353,350,15,2023-06-06,Produk tidak berfungsi,Rejected,75000,6,2023-06-20
+797,4703,1153,470,2024-08-27,Ukuran tidak sesuai,Rejected,1000000,35,2024-09-08
+798,5179,1917,44,2024-01-13,Customer tidak jadi beli,Rejected,250000,71,2024-01-25
+799,4704,2156,300,2025-08-17,Pesanan salah kirim,Rejected,150000,25,2025-08-29
+800,5240,238,75,2026-05-26,Diterima dalam kondisi tidak baik,Approved,200000,59,2026-06-03

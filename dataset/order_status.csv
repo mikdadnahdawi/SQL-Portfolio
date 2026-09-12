@@ -1,0 +1,9 @@
+﻿status_id,status_name,status_category,description
+1,Pending,Open,Menunggu pembayaran
+2,Processing,Open,Sedang diproses
+3,Shipped,Open,Sedang dikirim
+4,Delivered,Closed,Telah diterima
+5,Completed,Closed,Transaksi selesai
+6,Cancelled,Cancelled,Dibatalkan
+7,Returned,Returned,Dikembalikan
+8,Refunded,Returned,Dana dikembalikan

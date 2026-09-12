@@ -1,0 +1,21 @@
+﻿supplier_id,supplier_name,contact_person,email,phone,address,city_id,category_supplied,rating,payment_terms,lead_time_days,minimum_order_value,status,contract_start_date
+1,PT Garuda Textile,Lucky Lestari,lucky.lestari@garudatextile.co.id,021-5523951,"Jl. Ekspor No. 64, Blok B",2,Sepatu,4.1,2/10 Net 30,28,2500000,Active,2022-04-18
+2,PT Nusantara Fashion,Mira Nugroho,mira.nugroho@nusantarafashion.co.id,021-2612061,"Jl. Gudang No. 56, Blok D",25,Sepatu,3.2,Cash on Delivery,27,5000000,Active,2022-03-08
+3,CV Mitra Sejahtera,Nadia Wijaya,nadia.wijaya@mitrasejahtera.co.id,021-3912521,"Jl. Bisnis No. 57, Blok D",23,Sepatu,3.5,Net 7,4,5000000,Active,2020-08-14
+4,PT Indo Apparel,Dina Kusuma,dina.kusuma@indoapparel.co.id,021-5318915,"Jl. Pabrik No. 64, Blok C",3,Pakaian Wanita,3.5,Net 30,8,5000000,Active,2021-10-25
+5,PT Pacific Shoes,Nico Santoso,nico.santoso@pacificshoes.co.id,021-9755729,"Jl. Pabrik No. 43, Blok C",18,Aksesoris,3.7,2/10 Net 30,16,1000000,Active,2022-10-15
+6,CV Sinar Jaya,Jaya Lestari,jaya.lestari@sinarjaya.co.id,021-6014639,"Jl. Ekspor No. 62, Blok E",22,Olahraga,3.8,Net 14,16,1000000,Active,2023-04-28
+7,PT Mega Supplier,Jaya Hidayat,jaya.hidayat@megasupplier.co.id,021-6126524,"Jl. Bisnis No. 1, Blok C",4,Aksesoris,4.8,Cash on Delivery,24,10000000,Active,2021-11-27
+8,CV Abadi Sentosa,Erlangga Lestari,erlangga.lestari@abadisentosa.co.id,021-3422749,"Jl. Pabrik No. 76, Blok B",8,Sepatu,4.6,Net 14,10,5000000,Active,2020-04-02
+9,PT Prima Distribution,Olivia Lestari,olivia.lestari@primadistribution.co.id,021-5310015,"Jl. Gudang No. 44, Blok A",26,Pakaian Wanita,4.9,2/10 Net 30,29,5000000,Active,2024-07-30
+10,CV Karya Mandiri,Jelita Santoso,jelita.santoso@karyamandiri.co.id,021-4995978,"Jl. Ekspor No. 41, Blok B",9,Aksesoris,3.7,Net 45,3,5000000,Active,2024-11-09
+11,PT Global Trading,Erlangga Hidayat,erlangga.hidayat@globaltrading.co.id,021-6781642,"Jl. Pabrik No. 90, Blok C",12,Pakaian Pria,4.2,Net 14,22,10000000,Active,2022-02-21
+12,CV Sukses Bersama,Gilang Kusuma,gilang.kusuma@suksesbersama.co.id,021-7698986,"Jl. Pabrik No. 96, Blok B",7,Olahraga,4.8,Net 30,15,2500000,Active,2021-12-31
+13,PT Delta Supply,Olivia Lestari,olivia.lestari@deltasupply.co.id,021-4615220,"Jl. Ekspor No. 66, Blok B",23,Aksesoris,3.1,2/10 Net 30,20,10000000,Active,2021-01-05
+14,CV Cahaya Abadi,Erlangga Santoso,erlangga.santoso@cahayaabadi.co.id,021-4313748,"Jl. Gudang No. 67, Blok E",7,Pakaian Pria,3.1,Cash on Delivery,14,1000000,Active,2021-07-20
+15,PT Harmoni Bisnis,Jaya Lestari,jaya.lestari@harmonibisnis.co.id,021-5644103,"Jl. Bisnis No. 61, Blok D",17,Aksesoris,3.6,Cash on Delivery,24,10000000,Active,2022-03-29
+16,CV Lestari Jaya,Krisna Kusuma,krisna.kusuma@lestarijaya.co.id,021-9577192,"Jl. Gudang No. 57, Blok E",20,Olahraga,5,2/10 Net 30,28,10000000,Active,2020-04-24
+17,PT Anugerah Supplier,Andi Wijaya,andi.wijaya@anugerahsupplier.co.id,021-7754243,"Jl. Ekspor No. 28, Blok D",24,Aksesoris,4.2,Cash on Delivery,21,2500000,Active,2024-08-11
+18,CV Bintang Timur,Nico Lestari,nico.lestari@bintangtimur.co.id,021-3451535,"Jl. Industri No. 13, Blok B",4,Pakaian Wanita,4.1,Net 14,27,10000000,Active,2023-06-04
+19,PT Cahaya Nusantara,Alya Lestari,alya.lestari@cahayanusantara.co.id,021-7309428,"Jl. Industri No. 84, Blok D",1,Sepatu,4.9,Net 30,28,1000000,Active,2021-11-27
+20,CV Mandiri Sukses,Luna Santoso,luna.santoso@mandirisukses.co.id,021-5908496,"Jl. Industri No. 24, Blok A",10,Olahraga,3.9,2/10 Net 30,19,5000000,Active,2022-11-05

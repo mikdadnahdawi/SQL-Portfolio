@@ -1,0 +1,30 @@
+﻿city_id,city_name,province,region,latitude,longitude
+1,Jakarta,DKI Jakarta,Jawa,-6.2088,106.8456
+2,Bogor,Jawa Barat,Jawa,-6.5944,106.7892
+3,Depok,Jawa Barat,Jawa,-6.4025,106.7942
+4,Tangerang,Banten,Jawa,-6.1781,106.63
+5,Bekasi,Jawa Barat,Jawa,-6.2349,106.9896
+6,Bandung,Jawa Barat,Jawa,-6.9175,107.6191
+7,Semarang,Jawa Tengah,Jawa,-7.0051,110.4381
+8,Yogyakarta,DI Yogyakarta,Jawa,-7.7956,110.3695
+9,Surabaya,Jawa Timur,Jawa,-7.2575,112.7521
+10,Malang,Jawa Timur,Jawa,-7.9666,112.6326
+11,Medan,Sumatera Utara,Sumatera,3.5952,98.6722
+12,Palembang,Sumatera Selatan,Sumatera,-2.9761,104.7754
+13,Padang,Sumatera Barat,Sumatera,-0.9471,100.4172
+14,Pekanbaru,Riau,Sumatera,0.5071,101.4478
+15,Banda Aceh,Aceh,Sumatera,5.5483,95.3238
+16,Lampung,Lampung,Sumatera,-5.45,105.2667
+17,Pontianak,Kalimantan Barat,Kalimantan,-0.0263,109.3425
+18,Banjarmasin,Kalimantan Selatan,Kalimantan,-3.3167,114.5908
+19,Samarinda,Kalimantan Timur,Kalimantan,-0.4948,117.1436
+20,Palangkaraya,Kalimantan Tengah,Kalimantan,-2.2086,113.9165
+21,Makassar,Sulawesi Selatan,Sulawesi,-5.1477,119.4327
+22,Manado,Sulawesi Utara,Sulawesi,1.4748,124.8421
+23,Palu,Sulawesi Tengah,Sulawesi,-0.9002,119.8706
+24,Denpasar,Bali,Bali & Nusa Tenggara,-8.6705,115.2126
+25,Mataram,Nusa Tenggara Barat,Bali & Nusa Tenggara,-8.5833,116.1167
+26,Kupang,Nusa Tenggara Timur,Bali & Nusa Tenggara,-10.1772,123.607
+27,Jayapura,Papua,Papua & Maluku,-2.5916,140.6689
+28,Ambon,Maluku,Papua & Maluku,-3.6547,128.1908
+29,Sorong,Papua Barat,Papua & Maluku,-0.8762,131.2558

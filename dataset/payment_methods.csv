@@ -1,0 +1,13 @@
+﻿payment_id,method_name,provider,fee_percentage
+1,Transfer Bank BCA,BCA,0
+2,Transfer Bank Mandiri,Mandiri,0
+3,Transfer Bank BNI,BNI,0
+4,Transfer Bank BRI,BRI,0
+5,GoPay,Gojek,2
+6,OVO,OVO,1.5
+7,DANA,DANA,1.5
+8,ShopeePay,Shopee,2
+9,Kartu Kredit Visa,Visa,2.5
+10,Kartu Kredit Mastercard,Mastercard,2.5
+11,COD (Bayar di Tempat),Internal,1
+12,PayLater,PayLater,3
