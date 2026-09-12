@@ -35,7 +35,7 @@ The dataset is structured as a **star schema**, consisting of 1 fact table and 1
 
 <!-- Add the ER Diagram screenshot exported from DBeaver here -->
 
-`screenshots/er_diagram.png`
+File Image: [`er_diagram.png`](er_diagram.png)
 
 ## Project 1 — Sales Analysis
 
